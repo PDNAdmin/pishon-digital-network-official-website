@@ -1,0 +1,329 @@
+{
+  "batch": "demo-showreel",
+  "requestedImageVectorFiles": 45,
+  "losslessPlateCompanions": 6,
+  "screenCoordinateFiles": 1,
+  "checks": {
+    "dimensions": "passed",
+    "exactSHA256Duplicates": 0,
+    "photographicNearDuplicates": [],
+    "minimumPhotoDHashDistance": 16,
+    "priorAssetsPreserved": true,
+    "screenCorners": "All six temporary overlay renders visually checked; deleted with work directory.",
+    "losslessGreen": "All screen pixels exact #00FF00; outside pixels neutral grayscale.",
+    "icons": "Compared at 24/48/96px",
+    "illustrations": "Generated raster then vectorized; both SVG and 2048 transparent PNG delivered"
+  },
+  "notes": [
+    "1920px photographs use conventional Lanczos resizing from model-native images; no AI upscaling or smoothing.",
+    "JPEG cannot guarantee bit-exact green. Use paired PNG for exact chroma keying."
+  ],
+  "files": [
+    {
+      "file": "avatars/avatar-01.jpg",
+      "width": 512,
+      "height": 512,
+      "sha256": "52DA5A1C2FCF8D3347DF3959670BA4E0E704A858E5AE8FD92FFA98A3841128FD"
+    },
+    {
+      "file": "avatars/avatar-02.jpg",
+      "width": 512,
+      "height": 512,
+      "sha256": "6463E177EF3DF5524D93040DAEEE1486C5C9083EDC7B7C00C9FDF57CBBF0E8CB"
+    },
+    {
+      "file": "avatars/avatar-03.jpg",
+      "width": 512,
+      "height": 512,
+      "sha256": "27A85106ABAC96568C3413BE66F89A360280CABC2168BFD5AF76FAF3103FF43B"
+    },
+    {
+      "file": "avatars/avatar-04.jpg",
+      "width": 512,
+      "height": 512,
+      "sha256": "41D6F2B662ABD2A9F0861F4333B136E10D9BE55ACFCC5C58C7642F1EC78CF3FF"
+    },
+    {
+      "file": "avatars/avatar-05.jpg",
+      "width": 512,
+      "height": 512,
+      "sha256": "3C942A00435E0A1535C4F0B2351E94AD6502A874668443AC03E2A4833B4F21FE"
+    },
+    {
+      "file": "avatars/avatar-06.jpg",
+      "width": 512,
+      "height": 512,
+      "sha256": "1A19C67D7A055A016BD8172D199F4ACAC1A16EFC495CCAAD206D5B76B1BF4D49"
+    },
+    {
+      "file": "avatars/avatar-07.jpg",
+      "width": 512,
+      "height": 512,
+      "sha256": "7DB7C5EBA4518E0B37CEF7C127AA65DCDBC8C6322FCAF50AEFEA0F833F36AD79"
+    },
+    {
+      "file": "avatars/avatar-08.jpg",
+      "width": 512,
+      "height": 512,
+      "sha256": "A9B4F15466497AC899DCC8F049B66980A23A20F0B3C3F9AC6326AAD911A01CE1"
+    },
+    {
+      "file": "avatars/avatar-09.jpg",
+      "width": 512,
+      "height": 512,
+      "sha256": "A0EEB3F09FE0B85797A5FC982283E70F331109598BD2F954F4C6DA42C947906D"
+    },
+    {
+      "file": "avatars/avatar-10.jpg",
+      "width": 512,
+      "height": 512,
+      "sha256": "1CCDAEC1D4AD615421D1A4526DA204AE49D576CDB9B8E17E408EC33008E22D3F"
+    },
+    {
+      "file": "chat-media/clinic-room.jpg",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "96DCC7705DDCFADBACEA2D008A8294E8DE597E54C766DCD796688A2200E40EBE"
+    },
+    {
+      "file": "chat-media/hotel-deluxe-room.jpg",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "94F2A55C8B6D25D70D5BBB0C9E5ACC183EF76CD860F59658B6E62C47044D3E49"
+    },
+    {
+      "file": "chat-media/property-bedroom.jpg",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "1517B5781406889B77C018234DCD4948D45340CE432FD18D1AAAA42562EB5BD3"
+    },
+    {
+      "file": "chat-media/property-kitchen.jpg",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "2E3768DDE9610C03D9D665DC2D21EBB5FF5DAF6E92D41A68753E978EF39BC719"
+    },
+    {
+      "file": "chat-media/property-livingroom.jpg",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "0F2B8C4D3B68C7F6D7127A2BFF846CB971DD1C4B919F6ADFB789DB8CB8888823"
+    },
+    {
+      "file": "icons/icon-channel-email.svg",
+      "width": 24,
+      "height": 24,
+      "sha256": "BF67647A6994CAEF7AB392BF4AB5C1A710FD783CEA7F7D7C9D1ED07C465E3FD2"
+    },
+    {
+      "file": "icons/icon-channel-sms.svg",
+      "width": 24,
+      "height": 24,
+      "sha256": "2FC0C12AF4E6B8DBF9B69FFF44C309F7EEEE396090458684B031C0EED7322344"
+    },
+    {
+      "file": "icons/icon-channel-social.svg",
+      "width": 24,
+      "height": 24,
+      "sha256": "458BE3F027F8088F832726938F52AF718E1299224F291B8D3A19CB80E55BA98A"
+    },
+    {
+      "file": "icons/icon-channel-website.svg",
+      "width": 24,
+      "height": 24,
+      "sha256": "AA5567EB5AFA7ECCF6E8E25A026E7B05EA496EEB312B052DF12F77EC78C6C2C9"
+    },
+    {
+      "file": "icons/icon-clock-24.svg",
+      "width": 24,
+      "height": 24,
+      "sha256": "4B6B07958F35EFCA083FE3856E39935ACDBE946C4458069B6524524ED775B792"
+    },
+    {
+      "file": "icons/icon-follow-up.svg",
+      "width": 24,
+      "height": 24,
+      "sha256": "0E66D244522B35078C1B56D8733424EECFF8B55311D11110EA44709060B37548"
+    },
+    {
+      "file": "icons/icon-language.svg",
+      "width": 24,
+      "height": 24,
+      "sha256": "13AE266BA5CD59C47530F3374C4079727BC513F6C8168996B848DE1F42E65C4E"
+    },
+    {
+      "file": "illustrations/feature-booking.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "8C3908486F06B2AA9D7F7FFC2DA225ADAE3DF088C3C4BCC65DBE283BE0388AEF"
+    },
+    {
+      "file": "illustrations/feature-booking.svg",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "EB6CBB4BDC96D09CDF2E63365BBBF51B3773358A43E70740CA4CEA6A27C422BF"
+    },
+    {
+      "file": "illustrations/feature-channels.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "B5BB3438092B6C4E30D606C2FEC240CA45505A01EE29A3BC8E43FB22D6E20186"
+    },
+    {
+      "file": "illustrations/feature-channels.svg",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "4D6F375EEEFE9DC81F20045B6B8DE4C3BC1EE86470BB35C0A107263612A8E426"
+    },
+    {
+      "file": "illustrations/feature-followup.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "854EEEEA4EDEC3432C5F74A3953F137BADB720B5627F459E11B5B0B61A3C2B79"
+    },
+    {
+      "file": "illustrations/feature-followup.svg",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "E8F1B7E5C298CD16100CFF0525DB8649363AD5244D1E0EA0CA90D5DC1AD1AF24"
+    },
+    {
+      "file": "illustrations/feature-handover.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "7F12AE46B236E7C6591FFBF80BBEDAEEA2267AF322E64E319B2FC6A12949DF53"
+    },
+    {
+      "file": "illustrations/feature-handover.svg",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "70621A14F0364DC41918E66C3C8E4E8A7F0D17A50C5974F39E4384ABC4A6B18A"
+    },
+    {
+      "file": "illustrations/feature-summary.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "3983F73A49EEAC99808AE9D2AEB6ED1D80B7AEE9D0348C52F2E1CA5397FC19E9"
+    },
+    {
+      "file": "illustrations/feature-summary.svg",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "B0386EFC9AA347D645C584DE093421861478C06ED02B8C3115F6984CD1B75F3D"
+    },
+    {
+      "file": "illustrations/feature-trained.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "1FC847C1687F17659C1D750CF1546CEB3FE3DBC42D6391BD41DE300B0653EC72"
+    },
+    {
+      "file": "illustrations/feature-trained.svg",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "7B855EFB7CD5154E92A930367A5ED2FBCC22BA0EC64467A3E9C50BB7195C6DEB"
+    },
+    {
+      "file": "showreel-broll/lagos-dusk.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "58F25F575B0A96A0692B8BBB93A91603FE1E6FFC98A5A89CE741C2255EBDB1C0"
+    },
+    {
+      "file": "showreel-broll/lagos-night-traffic.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "189BDDB86A14ADE62A8C7839591752D8068B6DE2938C020F07825BD95F5FE154"
+    },
+    {
+      "file": "showreel-broll/lekki-sunrise.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "CABA3AD522382DA68C8D2DD17C2AD89349F2BAB656D2C3DC1E3E34AF71842D5F"
+    },
+    {
+      "file": "showreel-broll/office-morning-busy.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "A8CE483FCCB395FE784E370C34ACB2B722543658BC16E8433BF39B6C7D9C5C84"
+    },
+    {
+      "file": "showreel-broll/office-night-empty.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "262179C7E51A92787CAD790AF955E9857E8F674EF71D8C4EBFCFBBC83D2AE023"
+    },
+    {
+      "file": "showreel-plates/plate-customer-night-16x9.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "32B911C07D3DD3A04104143B94C64C177BC42AA2AC1D5EE8167EBF6272D7284B"
+    },
+    {
+      "file": "showreel-plates/plate-customer-night-16x9.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "A3477B7276F4ECF5A0A48614FDCE9396057D0026D5C347F69D3EAED733A66E0C"
+    },
+    {
+      "file": "showreel-plates/plate-customer-night-9x16.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "073DDF5DFFB66A8F537A36422C875591D61BC0BA732399EDAC0484D4C6996AA7"
+    },
+    {
+      "file": "showreel-plates/plate-customer-night-9x16.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "F21992488DD0DA3A4D1D4795EB4EB236935B3D0BA636EA94AFB85F8E1D84972E"
+    },
+    {
+      "file": "showreel-plates/plate-hand-closeup-16x9.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "83B7F9650AE40D6F7E3D76D8630A025709A0F2DB569239FFC2FDF8F5F123469F"
+    },
+    {
+      "file": "showreel-plates/plate-hand-closeup-16x9.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1B1374AC1BA6BB8EBE9F897CFAA35EA95ABBCDCB806BE99F5F24BA7CCBF41365"
+    },
+    {
+      "file": "showreel-plates/plate-hand-closeup-9x16.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "747B76AC4BB6771486F1F3111A4CD8105C40C70745B4D53081C406617EDC12E1"
+    },
+    {
+      "file": "showreel-plates/plate-hand-closeup-9x16.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "004CB5B933D84F771ED1D5F05937399C33EADD5A86C33597E8299EC7C18AF4E5"
+    },
+    {
+      "file": "showreel-plates/plate-owner-morning-16x9.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "48589ACA75794C295CAB92BD3C67560D6F9B544D64BB8B013436B9C062F09D4E"
+    },
+    {
+      "file": "showreel-plates/plate-owner-morning-16x9.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2D34BD5449FCE76D23E91D92625E999E2909AEAF9E43055EB350A5558128FD4E"
+    },
+    {
+      "file": "showreel-plates/plate-owner-morning-9x16.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "FD1DF8996FC4AAD364F848F0FD430231B8A36E7826C5DA7834AD5BB7062505F6"
+    },
+    {
+      "file": "showreel-plates/plate-owner-morning-9x16.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "B409C7DC03D8DCFA2B2B2F0AECC24BB2970A0E3239B20B8D2B2D1EC9AD3FEB57"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "round": 2,
+  "generatedAt": "2026-11-16T15:11:12.257Z",
+  "imageFiles": 74,
+  "reapprovedUnchangedNeutralAssets": [
+    "icons/icon-arrow-right.svg",
+    "icons/icon-assistant.svg",
+    "icons/icon-browser-leave.svg",
+    "icons/icon-calendar-check.svg",
+    "icons/icon-chart-up.svg",
+    "icons/icon-edit.svg",
+    "icons/icon-message-missed.svg",
+    "icons/icon-moon-phone.svg",
+    "icons/icon-phone-fast.svg",
+    "icons/icon-play.svg",
+    "icons/icon-plus.svg",
+    "icons/icon-repeat-questions.svg",
+    "icons/icon-search-pin.svg",
+    "icons/icon-shield.svg",
+    "icons/icon-website.svg",
+    "ui/booking-card.svg",
+    "ui/browser-frame.svg",
+    "ui/chat-bubbles.svg",
+    "ui/phone-frame.svg",
+    "ui/mock-chat-booking.png"
+  ],
+  "unexpectedRound1Survivors": [],
+  "duplicateFilenames": [],
+  "identicalFiles": [],
+  "perceptualCheck": {
+    "method": "64-bit difference hash plus 48px luminance MAE; candidates require Hamming <=5 and MAE <3/255",
+    "originals": 33,
+    "comparisons": 528,
+    "nearIdenticalCandidates": [],
+    "exclusions": "SVG/PNG format pairs, intentional mobile crops, and contact sheets are derived deliverables, not accidental copies."
+  },
+  "dimensionErrors": [],
+  "missingPromptRecords": [],
+  "stalePromptRecords": [],
+  "illustrationErrors": []
+}

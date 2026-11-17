@@ -1,0 +1,92 @@
+﻿assets/generated/
+|-- ads/
+|   |-- ad-a-1x1.png
+|   |-- ad-a-4x5.png
+|   |-- ad-a-9x16.png
+|   |-- ad-b-1x1.png
+|   |-- ad-b-4x5.png
+|   |-- ad-b-9x16.png
+|   |-- ad-c-1x1.png
+|   |-- ad-c-4x5.png
+|   \-- ad-c-9x16.png
+|-- icons/
+|   |-- icon-arrow-right.svg
+|   |-- icon-assistant.svg
+|   |-- icon-browser-leave.svg
+|   |-- icon-calendar-check.svg
+|   |-- icon-chart-up.svg
+|   |-- icon-edit.svg
+|   |-- icon-handover.svg
+|   |-- icon-message-missed.svg
+|   |-- icon-moon-phone.svg
+|   |-- icon-phone-fast.svg
+|   |-- icon-play.svg
+|   |-- icon-plus.svg
+|   |-- icon-repeat-questions.svg
+|   |-- icon-search-pin.svg
+|   |-- icon-shield.svg
+|   |-- icon-website.svg
+|   \-- icon-whatsapp-like.svg
+|-- illustrations/
+|   |-- 404.png
+|   |-- 404.svg
+|   |-- form-success.png
+|   |-- form-success.svg
+|   |-- pain-afterhours.png
+|   |-- pain-afterhours.svg
+|   |-- pain-leave.png
+|   |-- pain-leave.svg
+|   |-- pain-missed.png
+|   |-- pain-missed.svg
+|   |-- pain-repeat.png
+|   |-- pain-repeat.svg
+|   |-- step-1-talk.png
+|   |-- step-1-talk.svg
+|   |-- step-2-build.png
+|   |-- step-2-build.svg
+|   |-- step-3-customers.png
+|   \-- step-3-customers.svg
+|-- photography/
+|   |-- about-team-placeholder.jpg
+|   |-- door-assistant.jpg
+|   |-- door-website.jpg
+|   |-- final-cta-night.jpg
+|   |-- hero-clinic.jpg
+|   |-- hero-clinic-mobile.jpg
+|   |-- hero-restaurant.jpg
+|   |-- hero-restaurant-mobile.jpg
+|   |-- hero-salon.jpg
+|   |-- hero-salon-mobile.jpg
+|   |-- hero-shop.jpg
+|   |-- hero-shop-mobile.jpg
+|   \-- pain-1-busy-hands.jpg
+|-- posters/
+|   |-- testimonial-clinic-placeholder.jpg
+|   |-- testimonial-clinic-placeholder-mobile.jpg
+|   |-- testimonial-restaurant-placeholder.jpg
+|   |-- testimonial-restaurant-placeholder-mobile.jpg
+|   |-- testimonial-salon-placeholder.jpg
+|   |-- testimonial-salon-placeholder-mobile.jpg
+|   |-- testimonial-shop-placeholder.jpg
+|   \-- testimonial-shop-placeholder-mobile.jpg
+|-- ui/
+|   |-- booking-card.svg
+|   |-- browser-frame.svg
+|   |-- chat-bubbles.svg
+|   |-- mock-before-after.png
+|   |-- mock-chat-booking.png
+|   \-- phone-frame.svg
+|-- ads-review.png
+|-- build-catalog.ps1
+|-- CHANGELOG.md
+|-- cleanup-report.json
+|-- folder-tree.txt
+|-- illustration-review.png
+|-- index.html
+|-- inventory.csv
+|-- inventory-before-round2.json
+|-- manifest.json
+|-- photography-review.png
+|-- prompts.json
+|-- README.md
+\-- verification.json

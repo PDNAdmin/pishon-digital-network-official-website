@@ -1,0 +1,21 @@
+// Generated from assets/generated/icons. 24px grid, 1.5 stroke, currentColor.
+import type { SVGProps } from "react";
+type P = SVGProps<SVGSVGElement>;
+const base = { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: 1.5, strokeLinecap: "round" as const, strokeLinejoin: "round" as const, "aria-hidden": true };
+export const IconArrowRight = (p: P) => (<svg {...base} {...p}><path d="M4 12h16m-6-6 6 6-6 6"/></svg>);
+export const IconAssistant = (p: P) => (<svg {...base} {...p}><path d="M19 15v3H8l-5 3V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v4M16 12l2 2 4-5"/><path d="M7 10h.01M10 10h.01M13 10h.01"/></svg>);
+export const IconBrowserLeave = (p: P) => (<svg {...base} {...p}><rect x="3" y="4" width="16" height="16" rx="2"/><path d="M3 8h16M6 6h.01M9 6h.01M12 14h10m-3-3 3 3-3 3"/></svg>);
+export const IconCalendarCheck = (p: P) => (<svg {...base} {...p}><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 10h18m-13 5 3 3 5-5"/></svg>);
+export const IconChartUp = (p: P) => (<svg {...base} {...p}><path d="M3 3v18h18M7 17v-4m5 4v-7m5 7v-5M6 10l5-4 4 2 6-5m-5 0h5v5"/></svg>);
+export const IconEdit = (p: P) => (<svg {...base} {...p}><path d="M12 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14v-9M8 16l1-4L18 3l3 3-9 9-4 1Zm8-11 3 3M7 18h7"/></svg>);
+export const IconHandover = (p: P) => (<svg {...base} {...p}><path d="M3 3h9a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H7l-4 3V3Z"/><circle cx="17" cy="14" r="2.5"/><path d="M12.5 21c.5-3.5 8.5-3.5 9 0M16.5 5a5 5 0 0 1 4 4m-3-1 3 1 .5-3"/></svg>);
+export const IconMessageMissed = (p: P) => (<svg {...base} {...p}><path d="M12 18H7l-4 3V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v5"/><circle cx="17" cy="17" r="4"/><path d="M17 15v2l1.5 1"/></svg>);
+export const IconMoonPhone = (p: P) => (<svg {...base} {...p}><rect x="5" y="9" width="11" height="13" rx="2"/><path d="M9 19h3M17 2a5 5 0 1 0 5 6 5 5 0 0 1-5-6Z"/></svg>);
+export const IconPhoneFast = (p: P) => (<svg {...base} {...p}><rect x="10" y="3" width="11" height="18" rx="2"/><path d="M14 17h3M3 7h4m-5 5h5m-3 5h3"/></svg>);
+export const IconPlay = (p: P) => (<svg {...base} {...p}><circle cx="12" cy="12" r="9"/><path d="m10 8 6 4-6 4V8Z"/></svg>);
+export const IconPlus = (p: P) => (<svg {...base} {...p}><path d="M5 12h14M12 5v14"/></svg>);
+export const IconRepeatQuestions = (p: P) => (<svg {...base} {...p}><path d="M13 12H7l-4 3V5h11a2 2 0 0 1 2 2v2M10 12v7h7l4 3V11H10m-4 5-2 2 2 2m-2-2h4m10-8 2-2-2-2m2 2h-3"/></svg>);
+export const IconSearchPin = (p: P) => (<svg {...base} {...p}><path d="M13 3c-4 0-6 3-6 6 0 4 6 10 6 10s6-6 6-10c0-3-2-6-6-6Z"/><circle cx="9" cy="10" r="4"/><path d="m6 13-4 5"/></svg>);
+export const IconShield = (p: P) => (<svg {...base} {...p}><path d="m12 2 8 4v6c0 5-8 10-8 10S4 17 4 12V6l8-4Z"/><path d="m8 12 3 3 5-6"/></svg>);
+export const IconWebsite = (p: P) => (<svg {...base} {...p}><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 8h18M7 6h.01M10 6h.01M7 12h10M7 15h4m3 0h3M7 18h4"/></svg>);
+export const IconWhatsappLike = (p: P) => (<svg {...base} {...p}><path d="M5 3h14a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H8l-5 3V5a2 2 0 0 1 2-2Z"/><path d="m8 7-1 2c1 4 3 6 7 7l2-1-2-3-2 1-2-2 1-2-3-2Z"/></svg>);

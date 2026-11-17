@@ -1,0 +1,1598 @@
+﻿{
+    "round":  2,
+    "generatedAt":  "2026-11-16T15:19:17.7484126Z",
+    "deleted":  [
+                    {
+                        "file":  "_work/404-debug.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/404-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/404.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/about-team-placeholder-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/about-team-placeholder.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-a-1x1.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-a-4x5.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-a-9x16.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-b-1x1-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-b-1x1.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-b-4x5-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-b-4x5.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-b-9x16-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-b-9x16.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-c-1x1-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-c-1x1.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-c-4x5-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-c-4x5.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-c-9x16-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/ad-c-9x16.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/audit.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/door-assistant-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/door-assistant.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/door-website-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/door-website.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/final-cta-night.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/finish.ps1",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/form-success-debug.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/form-success-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/form-success-source-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/form-success.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/hero-clinic-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/hero-clinic.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/hero-restaurant-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/hero-restaurant.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/hero-salon-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/hero-salon.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/hero-shop-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/hero-shop.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/icon-handover-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/icon-whatsapp-like-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/inspect.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/mock-before-after.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/package-lock.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/package.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-1-busy-hands-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-1-busy-hands.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-afterhours-debug.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-afterhours-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-afterhours.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-leave-debug.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-leave-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-leave.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-missed-debug.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-missed-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-missed.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-repeat-debug.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-repeat-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/pain-repeat.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/prompts-ads-a.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/prompts-ads-b.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/prompts-complete.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/prompts-heroes.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/prompts-next.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/prompts-photography.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/prompts-posters.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/prompts-ui.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/publish.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/step-1-talk-debug.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/step-1-talk-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/step-1-talk.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/step-2-build-debug.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/step-2-build-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/step-2-build.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/step-3-customers-debug.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/step-3-customers-review.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/step-3-customers.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/testimonial-clinic-placeholder-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/testimonial-clinic-placeholder.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/testimonial-restaurant-placeholder-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/testimonial-restaurant-placeholder.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/testimonial-salon-placeholder-detail.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/testimonial-salon-placeholder.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/testimonial-shop-placeholder.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/trace.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_update-notifier-last-checked",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/01/b4/333e60e09739b8ad06d545224c4c702f1f468f10c08e3b31305bed8fea4f2d8b967127f5b11f20a66de9439bd830daf4b24b95b7057d5190f41db7111054",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/06/d8/f604e38ef37a375b21f9f5ef0c817b3111055c6ab9143a9118aee6c1d2eaf09cdd74c90dfae2bb22072535d67665a966199b4e62fe87fb8a8e26ce2841b5",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/0a/42/a12ab1ae277461f7db490b36d361b2db9754b93630d8505bededcb870696bc1b2b56c36505f0c14d9b0a57db6e4eefac60b0929a9c28f8b581e45bb5848f",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/0b/ca/69328a58940f0fb68c21b3f179bb69c0a46d9c9c6bb7d38a395d6864c4ae1cbcf9cc86b4387e7e55f5385104b83707207ee65a4172fae108a922375af9e0",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/0d/3b/cc617c0b28133ee9ee7d3ee6e31ffd691cf0f69084e5d5090cedec414a8854961c59852635e75426afbdb9d18e43fd9261f58b35ee7d013e33f29cc9f69f",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/0e/66/dcf61b00b50715a0ce66cf5d5f8f81dd0d4d5c6e2b533566b605b9e6b716f39a2358c01bc20c05c74a81e211d17635416ba60ee414841122913b336b3d82",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/1f/ec/b4268fd3d5167da8f3f8121d6991c41c2d1825ada25a48ba323ad1f1bba01aa648d6542cb64a2b75410e31dc39e0f2a0e54ac6447adee0e4fab4e8cbd383",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/22/b5/bf728f711582bfca829b6ca91aa43c97712b88bdc75ee3c43e7b6e454d8f01056ad57fcb758f2e2111914959a3fe0959d09449093d091ce419d102652c85",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/23/80/7998a8fb38fcf9124d45de40a26779579ae7503111c6affccbebadd4699f5684700487221caf817e6bb52d7994bf33831a934f9a2750d9a17033eddb441c",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/27/67/1f9091b48663ac0be4223df90d49ef14ebcbd6e5275a33c3e32cc56069c98a7ceb5929b539b32cf706a95f6283253e32657f361dc707c7e06880cf9bcb51",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/30/87/cfa1f2e7fe8b425af3b71e28fb19d33105e054e14478d68c54efe105e6231710eecbe678a75508d4a9551dbfa87f115bccbefd2dc0282b920124480cb94b",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/35/d8/6365163ce8acb968c851c16d4f55b06badcc9c192e044f76069a13cfa8383a2b636195f1d3642f255a8ddff4fe4bf19ebe1df03dc272fada97c8054a6654",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/3a/0a/8bc0e6553044f22776f665605372f8516b7abef263150122f3788a11ecdb5e1d0e3d02cea6196b3e1e53ccac12fd040e81392312dde898298d7aa651f571",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/3a/e1/5cce7175f8222cd3d5fde0fb1f8b2c708243e91fc65043cd5a3d18dec4574b2cbb7952920e96c6d42b66296f9bbf6c2fe508ea6e51f3ff6d53f6d396229d",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/3c/cc/37903f0c4f243d485d23a924339b8ad9855f12820474f763020957d80433027b155abc2d30d76616aaf85696c33a262634d18a10c2f1e77f3d9c5995daed",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/3d/3f/3a105b7aa2ddd0ae4cea6531e8c8e6992d94cd81a453ad0757d6aba732383649003784fdaec339915fb9e83b102784f3c52b53b839b556b340ef03891560",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/3d/f4/ec936619afdb48e7783faab0851c3b4ff4fb9a414522a266652a41b172afe3805972ab3f2a8c37cc832d618f1d9f2feee626825c5b339964c3f9f643b239",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/3f/d5/ec67f86172ae71a57007d17f4274a8ec00d81da9a4353cb4ee6fe2cb695f405898cec325dc1390e1d6b8b6c205a241d6bb02bb4d3cdb996483f3e53014a3",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/43/03/cb6a43df8e3746dabd7db0fd35b7302e4cf4b99bf7195632aaceca1a6b99d937594866ff6de6021553e7600b7797be3941366a76a6ecfc74f34337dafb0e",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/45/49/a51f67c70a89db80a67702fd10be0d0057485ffae3aaec92686b796c1639d4d1a3a05b9e292f1c326db58cf1b05ea1602b7ceac621e386473dc1a3bdde15",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/4a/01/f79642625c0f33d5c037eb71744ed3957210dd2646c4bd365950dcb881c1138ae0229d5edc09007934ddc92914fd05aad2c53475675b4e306fb3c6a4dbbd",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/4b/19/68a9346a52f323133b8c14dee966a5eb9dc863a72f4c4162a718ca17ba50d5aebab941a201a6ccdc91085912b3b8e7e3fe25ae3041f27e70d029fcd7c18b",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/4d/de/faabb8f9ee8fed2d57604bbe3a7180117d2cb193c8847d1c5ec0bf61e0e3336216d6e1301ca69974993e1ecaa5dd761e8bfe3c2833be66a3b8b16bfa4279",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/5d/63/b3c96bacd3141dd5991b57a5f9e9e9c15526749615aa9badd5f9fe9defa96e8d1b9454429c60d6fd6d85a7a9c5380f78275b54af1423d9027dbd782aef6c",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/63/09/f83a7cc6ba4a7b08332ba74f11439d182a6bb01b8edbad980854f4ef05a6807d095197282b46a4abc5d0a22fd33e2e5ccb06227af0847542abf31f28c2ee",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/63/16/c3ae3c66821c953cedfe41754eea226238cdc79b485fec428cea1cf216c1f8e9f1177b1a2486d7fd0482a1fd2a43c84d7a5ea01d2d4d102152c3c42d1620",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/69/27/08bd7aa6810008e891102868f04d2afa5e2ed78f61073cf6d8e7c31f2e5d0001da62df585e518842eb75d79ec386f1979a742973870d3fa88ae155122806",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/6f/0e/03e18e626d40f96a9c1f234cc9f134bbed2a0a6c0c3ad8ff4697ed214e366d970061876a510cbeba9ca98044a7672b3d22d6325e2f3de0142cc48e07992d",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/73/14/9a40e0586075e9091d87670c7788e793ab58bdc1c817b9f30dd34fff2599b4fd023aed34dded271002a3d050a5f30e707ee3208e6af64e53f187dfea36d9",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/74/7f/aff515d1692206236a6765362300b54dd45ca0877cf276490448b047459d227b8fbd3408691e3a8c9e1d6212d1317673ed5db9c19a017cedf3587d3d62cc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/78/0e/cd89055177a934a8fef282e70972bf2b37cd8a5f6ebb42da7c332f544b40cd1e04b6cc071a917e36efdd018259c7fcdc2a389f59e34f91038eac9df945bb",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/7a/51/50db61aece64bd16b161c4bac1cc61af5bc5996c307b567c85d4932f7db9e6d6174e77bce81a47bd80e5a2505ab8cb2f8c2a72a3169850b673d269cee639",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/7b/7a/f066a750ed3e7f3c3d373ba2a1dc0eff6b61a5016416fbb20f738084d942dcf4b25bce4566aadd23faaf0712049a1f2196349290ec63834cc724bfae8f32",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/7f/6b/651108f62bbe7944ae5ab01f50425c989053f3c5234a4c3c1474d3d68e38bc7e68624e6449ae4a418dcd5c90d1d8807ebc818bafa57667b6cbda4714ccd0",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/80/97/011e6177c29ea81ac1ded6525cdc69890592be520280383f7f52d9bad6fd7636dd1e4749da228e0967b2da303488c935b282a7b5aa3a50eab05fe24451e7",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/9a/a8/8be08a59da8d1cd8d8248fcc51067c302dafcb424b7fc9d52b6b9cf108e17068282bf4143e558df9e45c62576c39c1ceee10a3f7c8afc84f29a72c8cdaa4",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/a5/c8/ddf6881b5d4cf04901a1b4ce2ead382a8ccbda87eebe0d25d0f75d204bf9deec791e5a116d30c0b0c85a9b8aba2e4459d0cbf2f92240044797062ea2bf48",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/a8/48/a7b68e2279d56488184db3869d6b2d169453bd061b0ed44b0d5acbfba2ad8c6257597fadc8f17cd5cae0fa0ea919610106c695895b11ae77fd6829111ac3",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/af/62/798e9fe1060de4f52ed6ad89851bf2bc03142e3a246c30ee8bccd6f9cc0d9056d22c1cdb7dc185e5722e64a3744ab02b1913ce707ff3cbc5ba19c6781b01",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/b1/54/c23dc975127ecc0a6e3618784b9c8b8660e643b872d990bc17677962d56e221d352383e1e3e80e0880d58322bc58644d7962e9d1d679448e395d95b76810",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/b4/f2/966dccd637c7e4e34d050ed1f4815706945baad3767e217488989783ca64896fc08d337fbc9e03cdf1686616b191554be14804a495b7138a8ffe5b35abe5",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/c0/ed/add162b0c8e9d9bb4649c53921220b3fa47e59def4993d9220865716021d1445172d260026f56a05fa8761da544ed69c6e4637d0de02522f3e2a6e2916f1",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/c5/c7/87dac9e1b5be4cf658aa0ec984c39ea57b7efa993664117fe311bfd1c4d1727a036e97b78db250973fd1438ff2dcbb45fc284c8c71e3f69eda5a1eb0c454",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/c7/6d/1ee32c97c71f63e3eebdaa737203207907d40c5826ec53dbf03c3038f1c273d32d876522ffc67b2a3188218e1ca6744c4a53b5e5e049c1450c676564aee1",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/c7/99/e6af3545c6cda52aa615ec5151d23382379343d4085f768a1a550dc2217e83eeaf6afdd66efea7db3adb83e7649d96c27f4398904f13cceeac9a46c0dc74",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/c7/be/9e1f4bc488795c310bbc63c21e9e7b5a002b5d7694fa5b4c265ed5ab9ca727288ecc1390dd82a8400fa48458e125d6fdb30ef9190e1140f4a9d4470a5faa",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/c8/52/8ee1197201ba81e3f7cfc0a3261170d692734f13f6e74447b9fc0e73e2e65e3917bf1e64da6359a69f788aadd029a97949c1cd66e0384c5c1f8a03cdaba9",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/c9/91/19bcf19a5b54d565db6bb20e968751d74394404894c5e18428fdcd1a73c2375cc949422c65f847f7b323a6187245a17bbc1cf84220713c1613f1c67e7327",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/cb/c1/dc8a49c679beae512516653d3ef13fcf7469aeb7fc74a0419cef898d5c2df96caa887cb7aa699f184e7f468b64008cd0f713c43dd12784de26f4b886bd86",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/cd/95/39f40fae8f857584007fe0ffccc4b11d0672ea6342d3d5e468dfcb18df58f709e3c989d988bc49f6039116d1d7cb28561778f2a66308d33f06cc0f897f2a",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/cf/f5/1d19ff932c240b3a883b1873588bd9151e324e5b4efeacfbef72d8defb6d28db6cd49a731ee11def316b2e19ee99765c2d4b569d6e3791d63089e714c0c1",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/d2/1d/417c9b51eabf5bd62cbc88abe678fd2e982f62cf9b5e398b41d8d5615088948894937306065c3e34fb075405f8c888a223751ef48e65fe727e8fac6c28e6",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/d3/8f/c8996340ad475de8644c131b7c21959c79b542fa6ceecdc09cccb10567fac817a0608c271f3aba63388d99817d3eae305679929e306991e3f7fd1982e19a",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/d6/e4/ede534dd184ecf1cbf95ae68eca345413ce9fe0b33408a1f7f79d864b46e41cce96775c707a600a9c1403aa8e4f5d23ccdf96bf06c81554da120357a45bc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/d9/48/f13dce5347a2769a26bc73bf7d4dbd5f34f4d6104732b4fe2d3c83d1ca7d3fae19aa821eb15140dc35918b62edf9917fcda899a9a044fc0a370c9149026b",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/da/49/f006852f244422a73435c62bc4da922790e1c27dbaf911bc559867075b5e7085a55097d1d1120df34d902467afb7f7a3f71d31bcd0335f52e6154271586a",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/ea/cf/5d10b116872a8c4c1fa03dae04d3923722a8e641b8b9a921bfd87d5f30ebc1856f4d5a559917a6359281654fd7e54864a9917b4bc8bb36a7e9191d65d35c",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/ef/fc/60d4718627915ad1be669b5bb6fdf7544460fa1b1bf828286954d9ca7d63c94b3481cf8fff0dc6c6b93fc3e24c98f9c2e0c5aab04bbac38d90717711706e",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/f1/05/0786cbb3d7b684a9f145597ac094fecae08b70c6d6a007fdd3b3fdea3a75cf53bf893dea7652431a260db7c780dc0022f2209bf5fe27447261535a07117d",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/f6/5a/52494e0c972de6aedaeec0bb3578b2bafa0cdbcea78117044d8c88c4fbd2ee0e959d61cb6b4254377a3d489608bb8249e9b134673e82cff03a421ea1c827",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/fa/19/2e98b14c13da1b67e73e9a1280c4dab1e75fce798b776b414d7fe5ebf58b0855deb517cae313f76bbcdc39ac24f6ca01666499755326492efd7e20a8082f",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/content-v2/sha512/fb/59/f6cee599415f99d151e3427fb6481e8456b53b071796cfc1c28a0be55e2331d07d2490328415bec34276f7c175e1205042d76b168b8094ba6bb27a54de73",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/00/11/69f7586895b6f8cb2338a454352f17c2c5fc9d988ba0967a49c009e025c8",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/00/43/a0ead520e951af86b0b40b3df8be3134fff253466b80c30a550f951731d6",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/00/f2/59bdf1f0df7ac16aa395dd938694f243d8e562b8501f6b416bea37ecafe8",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/08/a6/521cef516f9e0b5e4ce99282650a4fbca19fd04a8ec1ecb1e0b0ef39d6c5",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/0e/68/852cfc554ad65a7ab858dc0e24f8bf997e5b9c6231cf8c6a4aea90cff71a",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/14/4e/d46fce818db7ad47324f5af3e420f40b77a96131e52dc7dd5bad89875024",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/14/a1/a5a7642e43153dcca40946d6ed114d4d31e8bb77d300f1e1a4668becee8a",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/19/75/6c624ab22845be4b3832279c5d8a9c0170bf3577b51fd30b807cbdd7581d",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/1f/5a/4112c10975c0af84a0370655cb830f4986775b13f3cb2b955b724154836c",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/1f/ad/9c993ab4e8d82e7cc04ebb71dbfb9f740583c9d1d316d403c061419b5523",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/26/53/eb6f1082a41ac955362feab31a32f15571f5b09ce2082db5be486b750454",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/2a/62/d0d3541f4fc436104dd14b9f829fbc312a2e53a1c4f71791b0cf5c859f2c",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/31/74/2df96f2be55e3948a87b2473f6545eff64eba244780d0360247e4c0dab79",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/33/27/426628816355d4289c047bf4cbcbfe0218b8c849527da481e28ea9cc6179",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/37/fa/2b5671ab311a0a6535b0d32c8404d9325fa5ce38827ac03e9e4680f1db01",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/39/64/07544fcefb39c5910a6fdcca257b97d841c089ecec47a468d727cd975f08",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/3a/5e/5cdf80d02a95a2c08b62aeb2850b937f5e7f8d892d269cb1276fe239b13d",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/3b/ea/f7a2731b07154d20cd47a333ee059536042d217b36db8af86d41e8dacd05",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/40/30/e4e39730717828ca4816d84345f038d80954ff66f0a7a4cfbed4d67a533e",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/44/b0/79f421ad4e7e7b67c4b8bfb2d8f046a60ef531f26d64a980907323aa61f3",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/52/ee/696cef60a8ac3fd8982ca350e9d8943578f2ad0ea2e8434665f71f4200ac",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/55/9f/6dec9fd627e4603c9e83170545185bd3f77cf37c53cd2b222351213f09f8",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/58/53/3547360701ba611d524ad8352e9692354308d04a95951b3d152c02e6ff16",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/65/fb/6eec61048d8f07198178f7aa01b8cfeba36cd780d2225a840be3f1733e92",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/66/61/0da7e0da899fb53831b2e9c4210493a56b6c00f8c5b822ef332b6480b041",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/67/1d/177915af205cec0c39943d83e2bdc59bc87c72ac1c6eaefc30d7cbef7288",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/67/5f/28c12321d8b73cabed8e5f6d334222738f3757d989855c298742f545c38d",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/68/dc/457084410eaba779a592b28ca319f5cc8e7c148d18a957d2d32e0fa32216",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/6a/da/2efc90b8fcfb26a3b4e3e13e9484a61d7e500c7a0528fcb3127902b3d5fd",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/71/67/da47e4ce18ac6be7ddd36cc1ea4213fc0c3257caf4f33fe6f42f52117be9",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/75/ca/5c85a18520e3c945aefa5f3b7b726f23b9387010afac981c5b3eccd3624a",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/80/b8/d0499a46d0be0e0da3683c6801408a5a9943022610b91438a6289ae62534",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/81/5b/a85b875fa26b70450ff68626d9079711ecbc493d1ee63596e6b9324450c5",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/88/24/3f09d4fd84eeb2ce94daf53f52fe553055f6b61b54ffff9dbbab3cbcf28c",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/8d/b3/63d81c0dbe3f1f838065e193af4b69922816127f958735517701db92f877",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/8e/4e/b8f8e3dc30af82d22c60f9db46b08188e5948bf486b34b532d8c1a36fd4b",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/8f/9e/b1727118ba59bd54c57f96b4ecd7aabec0b1c46dffaedb9b2179fe7e1882",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/90/fc/a1341f553e55ce7c5f65a6af6639838475601422a045b14723220bc1bd35",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/99/73/d65437692ae348e7e3761987bad1c2ed01ce850e4bdbf68295ea2820ccb9",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/9e/fc/227055497beea54894f774d60fd9debf4a0ad2307183acfaa24b386ca7e6",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/a0/bc/642e34835792ba454ff5070a04c0bee4607c0b543f7d4df77df576ee2f7f",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/a1/5e/c9aa1c46bf0c67511379e97bd07fca87532422f2506214f94db8861160d3",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/a5/42/e58a240f7a1b156aa7b4c5145722ca5054ef8ba5b3d6d7fe41c4811b9b12",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/ab/51/42dc531dbadf2431330052297273be20a0c6da7812c4dd5bb3daf1b15dfc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/b0/d0/f060343fa36a39f9b560f4f10c0a6d7073e85eb6a7e1f94c28c6b5871dfc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/b7/40/0b6193e92aa3dc34341e77bd25732d43f70b6eea4943ccb95e918cb6b9b9",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/b9/9c/ea5cdb63660adbf050ed50cae1a6a59443a7a061f98449e7ee7cfe80b54f",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/bb/ab/a951fcbd8c54390a089d41ba1d84b3db15a92b091061efb52550d6c98b0c",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/bf/60/1869d1db44e162078ab33249ae0d3535fe5af7ad6c000434e087e94e0ace",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/c1/b2/a752f0f3bcaa8785c78de1c78567b8e80e1296a4523296eda49d1b317f3b",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/c2/36/cc8c096d658008e7a59aa140f2ca517b820b79ed28e89b6167062b12ec17",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/c3/6e/b24c96c19c4711df1ab9b8b2c418d869eabf513aeb2c784937b801af8c1b",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/c7/16/23653243e29b5b7e426af3b6744e051e7a82e3ff89c6972b58c67e555229",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/c9/88/28898f8c6a3ebcf0fcebf0015c40b5c70f8d33485da1263438b167bbbed0",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/d0/0b/9295a0da508f4262ac8b552d7e2e6ac194bab533ae07c3e5752360c101ad",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/d6/4d/95351bd7b1c4630fa6590049d83b56ced950f5f2fd281f27e28527249cee",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/dd/4d/fc8d14f58c0ea54c89c00e815edb84070b745fd497cb2ff7a09926722767",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/eb/f6/284eb998ea0036e7fb618a37ddbfbfb0871c7488438668686903e78c0c95",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/f0/f1/dd95d28db07d44e156349ea2b3cdd4b713a0ef178735754bd75e47df130b",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/f6/76/489ca504687e013975b4b4dbbfa6d2e7f6ca544d8b29231bdb562442686f",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/f8/41/5dac66057141ab7e227a32067f60d10f7473ffe35eca6806d650a750aaa4",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_cacache/index-v5/fd/fa/4f9e170cbfb29c6fdb2c696f6aa4fd56132e2c9f37650eea26f40076da52",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/.npm-cache/_logs/2026-11-16T13_49_01_143Z-debug-0.log",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/.package-lock.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/.bin/semver",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/.bin/semver.cmd",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/.bin/semver.ps1",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/.bin/vectorizer",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/.bin/vectorizer.cmd",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/.bin/vectorizer.ps1",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/colour/color.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/colour/index.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/colour/index.d.ts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/colour/LICENSE.md",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/colour/package.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/colour/README.md",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/sharp-win32-x64/index.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/sharp-win32-x64/LICENSE",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/sharp-win32-x64/package.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/sharp-win32-x64/README.md",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/sharp-win32-x64/versions.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/sharp-win32-x64/lib/libvips-42.dll",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/sharp-win32-x64/lib/libvips-cpp-8.18.7.dll",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@img/sharp-win32-x64/lib/sharp-win32-x64-0.35.5.node",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer/browser.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer/index.d.ts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer/index.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer/js-bindings.d.ts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer/js-bindings.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer/LICENSE",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer/package.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer/README.md",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer/cli/index.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer-win32-x64-msvc/package.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer-win32-x64-msvc/README.md",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/@neplex/vectorizer-win32-x64-msvc/vectorizer.win32-x64-msvc.node",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/esm.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/index.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/LICENSE",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/package-support.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/package.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/Readme.md",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/lib/argument.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/lib/command.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/lib/error.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/lib/help.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/lib/option.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/lib/suggestSimilar.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/typings/esm.d.mts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/commander/typings/index.d.ts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/detect-libc/index.d.ts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/detect-libc/LICENSE",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/detect-libc/package.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/detect-libc/README.md",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/detect-libc/lib/detect-libc.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/detect-libc/lib/elf.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/detect-libc/lib/filesystem.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/detect-libc/lib/process.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/picocolors/LICENSE",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/picocolors/package.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/picocolors/picocolors.browser.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/picocolors/picocolors.d.ts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/picocolors/picocolors.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/picocolors/README.md",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/picocolors/types.d.ts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/index.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/LICENSE",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/package.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/preload.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/range.bnf",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/README.md",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/bin/semver.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/classes/comparator.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/classes/index.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/classes/range.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/classes/semver.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/clean.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/cmp.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/coerce.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/compare-build.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/compare-loose.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/compare.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/diff.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/eq.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/gt.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/gte.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/inc.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/lt.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/lte.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/major.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/minor.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/neq.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/parse.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/patch.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/prerelease.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/rcompare.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/rsort.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/satisfies.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/sort.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/truncate.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/functions/valid.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/internal/constants.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/internal/debug.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/internal/identifiers.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/internal/lrucache.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/internal/parse-options.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/internal/re.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/internal/trim-comparator-whitespace.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/gtr.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/intersects.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/ltr.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/max-satisfying.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/min-satisfying.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/min-version.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/outside.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/simplify.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/subset.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/to-comparators.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/semver/ranges/valid.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/LICENSE",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/package.json",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/README.md",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/channel.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/channel.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/colour.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/colour.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/composite.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/composite.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/constructor.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/constructor.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/index.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/index.d.cts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/index.d.mts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/index.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/input.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/input.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/is.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/is.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/libvips.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/libvips.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/operation.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/operation.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/output.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/output.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/resize.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/resize.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/sharp.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/sharp.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/utility.cjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/dist/utility.mjs",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/install/build.js",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/lib/index.d.ts",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/binding.gyp",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/common.cc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/common.h",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/metadata.cc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/metadata.h",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/operations.cc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/operations.h",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/pipeline.cc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/pipeline.h",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/sharp.cc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/stats.cc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/stats.h",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/utilities.cc",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/node_modules/sharp/src/utilities.h",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/404.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/404.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/form-success.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/form-success.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/pain-afterhours.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/pain-afterhours.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/pain-leave.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/pain-leave.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/pain-missed.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/pain-missed.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/pain-repeat.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/pain-repeat.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/step-1-talk.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/step-1-talk.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/step-2-build.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/step-2-build.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/step-3-customers.png",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "_work/traced/step-3-customers.svg",
+                        "reason":  "Temporary candidate, review crop, tracing script, dependency or cache; not a deliverable"
+                    },
+                    {
+                        "file":  "round2-baseline.json",
+                        "reason":  "Temporary size baseline; final dimensions are verified and recorded"
+                    },
+                    {
+                        "file":  "photography-review.png",
+                        "reason":  "Review sheet replaced with a fresh render of current approved assets"
+                    },
+                    {
+                        "file":  "illustration-review.png",
+                        "reason":  "Review sheet replaced with a fresh render of current approved assets"
+                    },
+                    {
+                        "file":  "ads-review.png",
+                        "reason":  "Review sheet replaced with a fresh render of current approved assets"
+                    },
+                    {
+                        "file":  "../pdn-generated-assets.zip",
+                        "reason":  "Stale archive replaced with cleaned round-2 delivery, excluding work, scripts and review sheets"
+                    }
+                ],
+    "renamedDuplicates":  [
+
+                          ],
+    "note":  "No version-suffixed asset duplicates existed in the initial inventory. Existing final paths were overwritten with chosen round-2 outputs."
+}

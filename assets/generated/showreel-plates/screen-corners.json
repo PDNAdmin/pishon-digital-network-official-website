@@ -1,0 +1,649 @@
+{
+  "schemaVersion": 1,
+  "coordinateSpace": "Final image pixels, origin at upper-left; x right, y down. Screen vertices are inner-screen edge intersections.",
+  "cornerOrder": [
+    "topLeft",
+    "topRight",
+    "bottomRight",
+    "bottomLeft"
+  ],
+  "colourNote": "Lossless PNG masters have exactly flat #00FF00 screens and neutral grayscale surroundings. JPEG compression can change RGB values and edge pixels; use the PNG masters for exact chroma keying.",
+  "images": {
+    "plate-customer-night-16x9.jpg": {
+      "width": 1920,
+      "height": 1080,
+      "corners": {
+        "topLeft": [
+          1474.68,
+          195.4
+        ],
+        "topRight": [
+          1748.3,
+          186.7
+        ],
+        "bottomRight": [
+          1698.96,
+          789.85
+        ],
+        "bottomLeft": [
+          1422.63,
+          753.28
+        ]
+      },
+      "orderedCorners": [
+        [
+          1474.68,
+          195.4
+        ],
+        [
+          1748.3,
+          186.7
+        ],
+        [
+          1698.96,
+          789.85
+        ],
+        [
+          1422.63,
+          753.28
+        ]
+      ],
+      "losslessMaster": "plate-customer-night-16x9.png",
+      "greenHex": "#00FF00",
+      "jpegCentreRGB": [
+        0,
+        255,
+        1
+      ],
+      "exactGreenInLosslessMaster": true,
+      "validation": {
+        "method": "Largest green connected component; four least-squares straight-edge fits; adjacent-line intersections; temporary overlay render",
+        "edgeSamples": [
+          207,
+          457,
+          209,
+          425
+        ],
+        "exactGreenPixels": 160334,
+        "pngConformanceErrors": 0
+      },
+      "native": [
+        1672,
+        941
+      ]
+    },
+    "plate-customer-night-16x9.png": {
+      "width": 1920,
+      "height": 1080,
+      "corners": {
+        "topLeft": [
+          1474.68,
+          195.4
+        ],
+        "topRight": [
+          1748.3,
+          186.7
+        ],
+        "bottomRight": [
+          1698.96,
+          789.85
+        ],
+        "bottomLeft": [
+          1422.63,
+          753.28
+        ]
+      },
+      "orderedCorners": [
+        [
+          1474.68,
+          195.4
+        ],
+        [
+          1748.3,
+          186.7
+        ],
+        [
+          1698.96,
+          789.85
+        ],
+        [
+          1422.63,
+          753.28
+        ]
+      ],
+      "greenHex": "#00FF00",
+      "exactGreen": true,
+      "pairedJPEG": "plate-customer-night-16x9.jpg"
+    },
+    "plate-hand-closeup-16x9.jpg": {
+      "width": 1920,
+      "height": 1080,
+      "corners": {
+        "topLeft": [
+          724.17,
+          85.94
+        ],
+        "topRight": [
+          1156.1,
+          86.81
+        ],
+        "bottomRight": [
+          1157.25,
+          974.16
+        ],
+        "bottomLeft": [
+          730.08,
+          976.62
+        ]
+      },
+      "orderedCorners": [
+        [
+          724.17,
+          85.94
+        ],
+        [
+          1156.1,
+          86.81
+        ],
+        [
+          1157.25,
+          974.16
+        ],
+        [
+          730.08,
+          976.62
+        ]
+      ],
+      "losslessMaster": "plate-hand-closeup-16x9.png",
+      "greenHex": "#00FF00",
+      "jpegCentreRGB": [
+        0,
+        255,
+        1
+      ],
+      "exactGreenInLosslessMaster": true,
+      "validation": {
+        "method": "Largest green connected component; four least-squares straight-edge fits; adjacent-line intersections; temporary overlay render",
+        "edgeSamples": [
+          323,
+          671,
+          319,
+          671
+        ],
+        "exactGreenPixels": 381849,
+        "pngConformanceErrors": 0
+      },
+      "native": [
+        1672,
+        941
+      ]
+    },
+    "plate-hand-closeup-16x9.png": {
+      "width": 1920,
+      "height": 1080,
+      "corners": {
+        "topLeft": [
+          724.17,
+          85.94
+        ],
+        "topRight": [
+          1156.1,
+          86.81
+        ],
+        "bottomRight": [
+          1157.25,
+          974.16
+        ],
+        "bottomLeft": [
+          730.08,
+          976.62
+        ]
+      },
+      "orderedCorners": [
+        [
+          724.17,
+          85.94
+        ],
+        [
+          1156.1,
+          86.81
+        ],
+        [
+          1157.25,
+          974.16
+        ],
+        [
+          730.08,
+          976.62
+        ]
+      ],
+      "greenHex": "#00FF00",
+      "exactGreen": true,
+      "pairedJPEG": "plate-hand-closeup-16x9.jpg"
+    },
+    "plate-owner-morning-16x9.jpg": {
+      "width": 1920,
+      "height": 1080,
+      "corners": {
+        "topLeft": [
+          1402.69,
+          228.78
+        ],
+        "topRight": [
+          1677.2,
+          218.91
+        ],
+        "bottomRight": [
+          1669.4,
+          810.53
+        ],
+        "bottomLeft": [
+          1398.09,
+          802.65
+        ]
+      },
+      "orderedCorners": [
+        [
+          1402.69,
+          228.78
+        ],
+        [
+          1677.2,
+          218.91
+        ],
+        [
+          1669.4,
+          810.53
+        ],
+        [
+          1398.09,
+          802.65
+        ]
+      ],
+      "losslessMaster": "plate-owner-morning-16x9.png",
+      "greenHex": "#00FF00",
+      "jpegCentreRGB": [
+        0,
+        255,
+        1
+      ],
+      "exactGreenInLosslessMaster": true,
+      "validation": {
+        "method": "Largest green connected component; four least-squares straight-edge fits; adjacent-line intersections; temporary overlay render",
+        "edgeSamples": [
+          208,
+          449,
+          205,
+          435
+        ],
+        "exactGreenPixels": 159039,
+        "pngConformanceErrors": 0
+      },
+      "native": [
+        1672,
+        941
+      ]
+    },
+    "plate-owner-morning-16x9.png": {
+      "width": 1920,
+      "height": 1080,
+      "corners": {
+        "topLeft": [
+          1402.69,
+          228.78
+        ],
+        "topRight": [
+          1677.2,
+          218.91
+        ],
+        "bottomRight": [
+          1669.4,
+          810.53
+        ],
+        "bottomLeft": [
+          1398.09,
+          802.65
+        ]
+      },
+      "orderedCorners": [
+        [
+          1402.69,
+          228.78
+        ],
+        [
+          1677.2,
+          218.91
+        ],
+        [
+          1669.4,
+          810.53
+        ],
+        [
+          1398.09,
+          802.65
+        ]
+      ],
+      "greenHex": "#00FF00",
+      "exactGreen": true,
+      "pairedJPEG": "plate-owner-morning-16x9.jpg"
+    },
+    "plate-customer-night-9x16.jpg": {
+      "width": 1080,
+      "height": 1920,
+      "corners": {
+        "topLeft": [
+          482.63,
+          396.95
+        ],
+        "topRight": [
+          994.49,
+          389.71
+        ],
+        "bottomRight": [
+          900.89,
+          1563.29
+        ],
+        "bottomLeft": [
+          390.71,
+          1513.87
+        ]
+      },
+      "orderedCorners": [
+        [
+          482.63,
+          396.95
+        ],
+        [
+          994.49,
+          389.71
+        ],
+        [
+          900.89,
+          1563.29
+        ],
+        [
+          390.71,
+          1513.87
+        ]
+      ],
+      "losslessMaster": "plate-customer-night-9x16.png",
+      "greenHex": "#00FF00",
+      "jpegCentreRGB": [
+        0,
+        255,
+        1
+      ],
+      "exactGreenInLosslessMaster": true,
+      "validation": {
+        "method": "Largest green connected component; four least-squares straight-edge fits; adjacent-line intersections; temporary overlay render",
+        "edgeSamples": [
+          388,
+          892,
+          386,
+          849
+        ],
+        "exactGreenPixels": 587204,
+        "pngConformanceErrors": 0
+      },
+      "native": [
+        941,
+        1672
+      ]
+    },
+    "plate-customer-night-9x16.png": {
+      "width": 1080,
+      "height": 1920,
+      "corners": {
+        "topLeft": [
+          482.63,
+          396.95
+        ],
+        "topRight": [
+          994.49,
+          389.71
+        ],
+        "bottomRight": [
+          900.89,
+          1563.29
+        ],
+        "bottomLeft": [
+          390.71,
+          1513.87
+        ]
+      },
+      "orderedCorners": [
+        [
+          482.63,
+          396.95
+        ],
+        [
+          994.49,
+          389.71
+        ],
+        [
+          900.89,
+          1563.29
+        ],
+        [
+          390.71,
+          1513.87
+        ]
+      ],
+      "greenHex": "#00FF00",
+      "exactGreen": true,
+      "pairedJPEG": "plate-customer-night-9x16.jpg"
+    },
+    "plate-hand-closeup-9x16.jpg": {
+      "width": 1080,
+      "height": 1920,
+      "corners": {
+        "topLeft": [
+          334.68,
+          344.95
+        ],
+        "topRight": [
+          853.24,
+          346.89
+        ],
+        "bottomRight": [
+          847.1,
+          1409.5
+        ],
+        "bottomLeft": [
+          339.35,
+          1409.5
+        ]
+      },
+      "orderedCorners": [
+        [
+          334.68,
+          344.95
+        ],
+        [
+          853.24,
+          346.89
+        ],
+        [
+          847.1,
+          1409.5
+        ],
+        [
+          339.35,
+          1409.5
+        ]
+      ],
+      "losslessMaster": "plate-hand-closeup-9x16.png",
+      "greenHex": "#00FF00",
+      "jpegCentreRGB": [
+        0,
+        255,
+        1
+      ],
+      "exactGreenInLosslessMaster": true,
+      "validation": {
+        "method": "Largest green connected component; four least-squares straight-edge fits; adjacent-line intersections; temporary overlay render",
+        "edgeSamples": [
+          387,
+          803,
+          380,
+          804
+        ],
+        "exactGreenPixels": 546034,
+        "pngConformanceErrors": 0
+      },
+      "native": [
+        941,
+        1672
+      ]
+    },
+    "plate-hand-closeup-9x16.png": {
+      "width": 1080,
+      "height": 1920,
+      "corners": {
+        "topLeft": [
+          334.68,
+          344.95
+        ],
+        "topRight": [
+          853.24,
+          346.89
+        ],
+        "bottomRight": [
+          847.1,
+          1409.5
+        ],
+        "bottomLeft": [
+          339.35,
+          1409.5
+        ]
+      },
+      "orderedCorners": [
+        [
+          334.68,
+          344.95
+        ],
+        [
+          853.24,
+          346.89
+        ],
+        [
+          847.1,
+          1409.5
+        ],
+        [
+          339.35,
+          1409.5
+        ]
+      ],
+      "greenHex": "#00FF00",
+      "exactGreen": true,
+      "pairedJPEG": "plate-hand-closeup-9x16.jpg"
+    },
+    "plate-owner-morning-9x16.jpg": {
+      "width": 1080,
+      "height": 1920,
+      "corners": {
+        "topLeft": [
+          359.87,
+          524.5
+        ],
+        "topRight": [
+          895.87,
+          524.5
+        ],
+        "bottomRight": [
+          892.5,
+          1651.04
+        ],
+        "bottomLeft": [
+          362.6,
+          1648.34
+        ]
+      },
+      "orderedCorners": [
+        [
+          359.87,
+          524.5
+        ],
+        [
+          895.87,
+          524.5
+        ],
+        [
+          892.5,
+          1651.04
+        ],
+        [
+          362.6,
+          1648.34
+        ]
+      ],
+      "losslessMaster": "plate-owner-morning-9x16.png",
+      "greenHex": "#00FF00",
+      "jpegCentreRGB": [
+        0,
+        255,
+        1
+      ],
+      "exactGreenInLosslessMaster": true,
+      "validation": {
+        "method": "Largest green connected component; four least-squares straight-edge fits; adjacent-line intersections; temporary overlay render",
+        "edgeSamples": [
+          406,
+          855,
+          401,
+          851
+        ],
+        "exactGreenPixels": 600018,
+        "pngConformanceErrors": 0
+      },
+      "native": [
+        941,
+        1672
+      ]
+    },
+    "plate-owner-morning-9x16.png": {
+      "width": 1080,
+      "height": 1920,
+      "corners": {
+        "topLeft": [
+          359.87,
+          524.5
+        ],
+        "topRight": [
+          895.87,
+          524.5
+        ],
+        "bottomRight": [
+          892.5,
+          1651.04
+        ],
+        "bottomLeft": [
+          362.6,
+          1648.34
+        ]
+      },
+      "orderedCorners": [
+        [
+          359.87,
+          524.5
+        ],
+        [
+          895.87,
+          524.5
+        ],
+        [
+          892.5,
+          1651.04
+        ],
+        [
+          362.6,
+          1648.34
+        ]
+      ],
+      "greenHex": "#00FF00",
+      "exactGreen": true,
+      "pairedJPEG": "plate-owner-morning-9x16.jpg"
+    }
+  }
+}

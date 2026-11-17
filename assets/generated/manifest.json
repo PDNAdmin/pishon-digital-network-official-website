@@ -1,0 +1,2039 @@
+[
+  {
+    "file": "ads/ad-a-1x1.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2368546,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:15:58.6300000Z",
+    "sha256": "46C8C2B9513A143A982164C54C464A25F94C31384D33CCE3A1F8AB6FF2B3A372",
+    "qualityReview": "Reviewed full frame and native hand detail: natural dark skin texture and correct gripping anatomy, coherent phone, exact headline and short gold underline, no logos or extra coloured UI.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ads/ad-a-4x5.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2452530,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:15:59.1660000Z",
+    "sha256": "CB58B10569E64EF11B0BF8DB49E926C29D72125667CB38C91F45B2DAE9B4DACB",
+    "qualityReview": "Reviewed full frame and native hand detail: natural dark skin texture and correct gripping anatomy, coherent phone, exact headline and short gold underline, no logos or extra coloured UI.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ads/ad-a-9x16.png",
+    "width": 940,
+    "height": 1672,
+    "bytes": 2260378,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:15:59.6960000Z",
+    "sha256": "1E34B1E4EF6FB26ADE3E219A9F2F8D0E2D26C8CD9EB8F8C46EF7F949224DF7DB",
+    "qualityReview": "Reviewed full frame and native hand detail: natural dark skin texture and correct gripping anatomy, coherent phone, exact headline and short gold underline, no logos or extra coloured UI.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ads/ad-b-1x1.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2409598,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:23:21.2860000Z",
+    "sha256": "3F28CD51710235D028EB75AA957F3ADF91263C29FF0B6EE37C2ED5A9702767AB",
+    "qualityReview": "Reviewed full frame and subject detail: Black Nigerian casting requested and visually consistent, natural hair and exposed skin, realistic Nigerian retail frontage, coherent hands and objects, exact headline and one small gold underline.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ads/ad-b-4x5.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2327486,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:23:22.1340000Z",
+    "sha256": "2EF0CF2F0567A5E102DFA5AF220FBAE30FB6D18AEB56D4AB1B8D9D4CCEEC587D",
+    "qualityReview": "Reviewed full frame and subject detail: Black Nigerian casting requested and visually consistent, natural hair and exposed skin, realistic Nigerian retail frontage, coherent hands and objects, exact headline and one small gold underline.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ads/ad-b-9x16.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2600103,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:23:22.6490000Z",
+    "sha256": "456F3FDCA33AFAF7948C0EE1E42211D405ECD3FFC19216DE4ECE496876FD9030",
+    "qualityReview": "Reviewed full frame and subject detail: Black Nigerian casting requested and visually consistent, natural hair and exposed skin, realistic Nigerian retail frontage, coherent hands and objects, exact headline and one small gold underline.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ads/ad-c-1x1.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2686695,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:10:56.6930000Z",
+    "sha256": "334B684918969F8EF8BF852DE379F7BF19B9BB61D28F3517F834242219FA2950",
+    "qualityReview": "Accepted after full-frame and native-resolution face/hand review: skin texture and natural grain retained, individual braids, anatomically plausible scissors/comb grip, all cast prompted as Black Nigerian; visibly lit notification, flat phone screen, exact headline and one gold underline. No obvious synthetic defects observed.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ads/ad-c-4x5.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2552322,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:10:57.3420000Z",
+    "sha256": "D90A2A9128D899FC69A91CC30CFF49E3ECA62CA63F3C773B952DA6A9155443B3",
+    "qualityReview": "Accepted after full-frame and native-resolution face/hand review: skin texture and natural grain retained, individual braids, anatomically plausible scissors/comb grip, all cast prompted as Black Nigerian; visibly lit notification, flat phone screen, exact headline and one gold underline. No obvious synthetic defects observed.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ads/ad-c-9x16.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2372360,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:10:58.0510000Z",
+    "sha256": "A547D3B96B4493E627526419DCC93608204EA9A2D202D509FC6E91ACBC08465C",
+    "qualityReview": "Accepted after full-frame and native-resolution face/hand review: skin texture and natural grain retained, individual braids, anatomically plausible scissors/comb grip, all cast prompted as Black Nigerian; visibly lit notification, flat phone screen, exact headline and one gold underline. No obvious synthetic defects observed.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ads-review.png",
+    "width": 1500,
+    "height": 2100,
+    "bytes": 3922841,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:19:24.5804946Z",
+    "sha256": "C3321C1E23C33C976527FBEA9DD90E56171B8FEA31AC3D711E18127EBB8ABE4B",
+    "qualityReview": null,
+    "productionMethod": "Review contact sheet"
+  },
+  {
+    "file": "icons/icon-arrow-right.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 244,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:49:53.0059770Z",
+    "sha256": "2061537C036FB43AF1448E917F1FE45311FF622B1346725982045D3D4D1D3C38",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-assistant.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 326,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:45:03.4132115Z",
+    "sha256": "85C655A845D6CF463F312421BB186B73CBF1CF08C3DAC6F5F5A3893D1983418C",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-browser-leave.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 319,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:44:44.1410883Z",
+    "sha256": "F957BC90FD3332687D5033C4701AF3252670F345E322D9F8C235E24E3DBE33F3",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-calendar-check.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 310,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:45:09.0129525Z",
+    "sha256": "872DAAC0BA3F7F87DDCE72E240B2066D357A00C33BFF398398085903A469757C",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-chart-up.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 278,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:45:34.7303497Z",
+    "sha256": "83E530EC6D289E6BCFC6404311EAE29D2A99E8DB57CD4DC7A27B081819D81467",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-edit.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 303,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:45:28.5512166Z",
+    "sha256": "7516BE42A54F4CBB6F93642E564C9412C2CBDDF974571B4B91784D318D8FE486",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-handover.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 386,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T13:53:02.4020912Z",
+    "sha256": "61415043BC999BE7CC6A8FF936936047D749868D2243F7D7ABDB3CD9306A7414",
+    "qualityReview": "Redrawn as separate bubble, curved handover arrow and person.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-message-missed.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 331,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:44:37.9417646Z",
+    "sha256": "2165295DFFA3AF64C2BC9B4FB624BDB47017A10780E00F2013CCBF36D2FF6118",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-moon-phone.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 312,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:44:55.0979562Z",
+    "sha256": "3F04427D09B4295C9374DEF72CEFFCB322B1A977D133596BABD577283136A4F4",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-phone-fast.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 300,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:45:21.6072305Z",
+    "sha256": "F6A493CDC1F198B3A0A34F6B305DAD846243236BB4404FCD6BB176C6AE4F0FB9",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-play.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 263,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:45:38.6433250Z",
+    "sha256": "155450170DF7368B426E1ADFB87C9A401F7DF718399151E1AC80E159022EA991",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-plus.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 232,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:45:41.2660466Z",
+    "sha256": "33A3C52DF2F4ED50A712BC7F929B000EA5AE887E98C513828F0CDDCAD40BD46C",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-repeat-questions.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 322,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:44:50.3506861Z",
+    "sha256": "93D5F7C72A56273A64B9A6962B186D8C320B353F5961379A61AC67797D129185",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-search-pin.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 327,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:45:25.1720085Z",
+    "sha256": "8BDBA745968AD4C18875C9660B2AD4B8F13B864F791FADCFBEA43C06D26A5B36",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-shield.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 285,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:45:31.3959208Z",
+    "sha256": "14FC6DE2F94B4DE99350B73E6F13CB5E5E0E6F72E42F41E364B9A88DA60686D2",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-website.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 320,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:44:57.5397664Z",
+    "sha256": "1C699879865202A3C9C8BF30D989A4C1085A04D8DF10EDF6FCB018985D5B8EA2",
+    "qualityReview": "Reapproved neutral icon; no people, logos, gradients or extra colours.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "icons/icon-whatsapp-like.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 341,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T13:53:03.6229107Z",
+    "sha256": "0DF0640FB476ABF0855066A78E3DEF96A0B8F5BFD5D8741B3EA6C7B15E692DD2",
+    "qualityReview": "Redrawn generic rectangular phone chat; no logo.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "illustration-review.png",
+    "width": 1200,
+    "height": 900,
+    "bytes": 175969,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:19:23.4219452Z",
+    "sha256": "C31A418D75EBC222B0D25367FA62D9814CF2C04C513FB060E763649FEC711AE2",
+    "qualityReview": null,
+    "productionMethod": "Review contact sheet"
+  },
+  {
+    "file": "illustrations/404.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 142500,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T13:59:55.2400000Z",
+    "sha256": "C51434DBCB3F40E4C03ABA868756FC378D9CF32D9DC6C1AE6B01406B79EB217E",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "2048px transparent render of traced SVG"
+  },
+  {
+    "file": "illustrations/404.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 43724,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T13:59:55.0681682Z",
+    "sha256": "3ED48B35A5C6A3B78CCB3D0906BB119C9D311F2B863880339F25FB0FB0F0FB66",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "Model-generated art; VTracer outline trace"
+  },
+  {
+    "file": "illustrations/form-success.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 121552,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:19.6360000Z",
+    "sha256": "9496C8D340F175C91D5110828629EA7374DC365CFB0E58EDFA02A5715454DC5F",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "2048px transparent render of traced SVG"
+  },
+  {
+    "file": "illustrations/form-success.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 33667,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:19.5532856Z",
+    "sha256": "2BAB4FE309BEA88E4161BFC9CA34384BB1C398D5231790FB5CF06D3BBE3875DB",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "Model-generated art; VTracer outline trace"
+  },
+  {
+    "file": "illustrations/pain-afterhours.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 158814,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:10.4470000Z",
+    "sha256": "1DA147E6E96692E5172BEC1B395BA2ADE18312244810611D36E447EB403255E3",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "2048px transparent render of traced SVG"
+  },
+  {
+    "file": "illustrations/pain-afterhours.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 60152,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:10.3609433Z",
+    "sha256": "279707CC5C11A4C5814B3489765B9DBB2F1AB89355837540294A293D4E9FACB7",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "Model-generated art; VTracer outline trace"
+  },
+  {
+    "file": "illustrations/pain-leave.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 193493,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:05.4150000Z",
+    "sha256": "A32A0BE85114953B9BE050F2E00337ED1871E813CF881F0742F40F07C09CA159",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "2048px transparent render of traced SVG"
+  },
+  {
+    "file": "illustrations/pain-leave.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 66467,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:05.3176995Z",
+    "sha256": "05A0C3277AE9F45D9F01DE659F9BCE9E080481D8EFC75DC2FE83F0D9B29950A9",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "Model-generated art; VTracer outline trace"
+  },
+  {
+    "file": "illustrations/pain-missed.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 236992,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:02.1370000Z",
+    "sha256": "0375D862C7B70F38E35537BA16D864A3FFDB0FE26AA7A175A6B34A857DD5DCB5",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "2048px transparent render of traced SVG"
+  },
+  {
+    "file": "illustrations/pain-missed.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 111363,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:01.9944667Z",
+    "sha256": "F6F614161977A8EA363A84FE608C12F8294524A54A2209F2CA10ABABA0A51AE4",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "Model-generated art; VTracer outline trace"
+  },
+  {
+    "file": "illustrations/pain-repeat.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 149995,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:08.0470000Z",
+    "sha256": "44C85DCE45DE1F80031D81C4234CA591024D40AB3E3E4E1A426C1CC7C495E454",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "2048px transparent render of traced SVG"
+  },
+  {
+    "file": "illustrations/pain-repeat.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 47828,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:07.8450557Z",
+    "sha256": "9C86A093679AAAB5A1BAC008A545DB31448DB2DFC780EE40953D098F068CA344",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "Model-generated art; VTracer outline trace"
+  },
+  {
+    "file": "illustrations/step-1-talk.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 161119,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:11.9300000Z",
+    "sha256": "BA481C006457A8C7A6ED0E6ECCFBD2CBD44C2F8C0525A718A0F07E7C2B6A70F2",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "2048px transparent render of traced SVG"
+  },
+  {
+    "file": "illustrations/step-1-talk.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 57043,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:11.8405441Z",
+    "sha256": "84AA7D7D7490C2BDC537B63EFF212EB62BCDCE75C16CA40947996663AA23181E",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "Model-generated art; VTracer outline trace"
+  },
+  {
+    "file": "illustrations/step-2-build.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 157983,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:14.5370000Z",
+    "sha256": "470F08315C1748A73DC4F03F1C1702A5E376D019A7D9D4517742BA6B7A4FE212",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "2048px transparent render of traced SVG"
+  },
+  {
+    "file": "illustrations/step-2-build.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 50962,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:14.4382039Z",
+    "sha256": "715A4AA05233BB43DD5498B169A0FA193BA8626673D67F942A98A8FE002F5D6F",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "Model-generated art; VTracer outline trace"
+  },
+  {
+    "file": "illustrations/step-3-customers.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 154870,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:17.4160000Z",
+    "sha256": "FED5C25854A7B584C959F6812D3634079FA24873CDE4F33DBB45AE4B34048E17",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "2048px transparent render of traced SVG"
+  },
+  {
+    "file": "illustrations/step-3-customers.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 58879,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:00:17.3067308Z",
+    "sha256": "F1F4911B846DBAFEACA0AF398A159EBA401E069847BBDD2D2EC49674540AFFD8",
+    "qualityReview": "Reviewed on paper at full size and thumbnail: clear object-led scene, natural hand/foot proportions, medium contour, single gold detail.",
+    "productionMethod": "Model-generated art; VTracer outline trace"
+  },
+  {
+    "file": "photography/about-team-placeholder.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 456746,
+    "transparent": false,
+    "placeholder": true,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:12:33.5340000Z",
+    "sha256": "E993B22B3734DF8337BD6FA5C701FF2662D46EC3DC26904107A5D83E556D16DA",
+    "qualityReview": "Full-frame and native detail visual review passed: textured exposed skin/hair, plausible hands, coherent available-light setting, no obvious synthetic defects. All depicted people were explicitly prompted as Black Nigerian.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "photography/door-assistant.jpg",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 422703,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:12:32.8460000Z",
+    "sha256": "E0BEB36FC816507DA27938907A7A27164983453F8399BBB2035C2BFE8C72512C",
+    "qualityReview": "Full-frame and native detail visual review passed: textured exposed skin/hair, plausible hands, coherent available-light setting, no obvious synthetic defects. All depicted people were explicitly prompted as Black Nigerian.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "photography/door-website.jpg",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 368436,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:12:32.5130000Z",
+    "sha256": "EA7097E886F29F211FAF5DC5906E1676C2CDCE5D027C7341D40D97348570FEEF",
+    "qualityReview": "Full-frame and native detail visual review passed: textured exposed skin/hair, plausible hands, coherent available-light setting, no obvious synthetic defects. All depicted people were explicitly prompted as Black Nigerian.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "photography/final-cta-night.jpg",
+    "width": 1913,
+    "height": 822,
+    "bytes": 323131,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:12:33.1820000Z",
+    "sha256": "0515EB03612A5247A2529C4B56A843A1E71B5D722C185E727F5D7F3313F17396",
+    "qualityReview": "Reviewed shop geometry, reflections and wet pavement; visibly open shopfront midtones; no people.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "photography/hero-clinic.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 365852,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:07:48.2490000Z",
+    "sha256": "37C35F93137FC7090467C6F4B204B6E68CD8E8850F77DEAA7BDC58F3DBA1CD59",
+    "qualityReview": "Native-resolution visual review: casting requested as Black Nigerian and visually consistent; textured exposed skin, individual natural hair, coherent hands and background, available-light grain; no obvious synthetic defects observed.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "photography/hero-clinic-mobile.jpg",
+    "width": 783,
+    "height": 1392,
+    "bytes": 105395,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:19:19.3944970Z",
+    "sha256": "7E625970EB7443C53147A6EF2FE902F9CCDB36063EFBC71B850CA361F3A5C2D7",
+    "qualityReview": "Derived from reviewed round-2 original.",
+    "productionMethod": "Crop of generated photo"
+  },
+  {
+    "file": "photography/hero-restaurant.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 508683,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:07:47.8830000Z",
+    "sha256": "C0995B056A28BB00AE792BA9761601AF7AD5E7742A29BD4C92F86173DEAB0C45",
+    "qualityReview": "Native-resolution visual review: casting requested as Black Nigerian and visually consistent; textured exposed skin, individual natural hair, coherent hands and background, available-light grain; no obvious synthetic defects observed.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "photography/hero-restaurant-mobile.jpg",
+    "width": 783,
+    "height": 1392,
+    "bytes": 151474,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:19:19.5511147Z",
+    "sha256": "034ECB162432C33A113BAFB93951DC56B60012AA6FE2D39384B56FCBC468A642",
+    "qualityReview": "Derived from reviewed round-2 original.",
+    "productionMethod": "Crop of generated photo"
+  },
+  {
+    "file": "photography/hero-salon.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 432922,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:07:47.5680000Z",
+    "sha256": "4FD0ED60DAFDF7A8869C367B55F578683C711A21D1B1E72CCD413E060D1FC31B",
+    "qualityReview": "Native-resolution visual review: casting requested as Black Nigerian and visually consistent; textured exposed skin, individual natural hair, coherent hands and background, available-light grain; no obvious synthetic defects observed.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "photography/hero-salon-mobile.jpg",
+    "width": 783,
+    "height": 1392,
+    "bytes": 118970,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:19:19.6760863Z",
+    "sha256": "2C92F706A2B39E95C96641A90F8F53B84B148751A25655A2B02328162EDF8E72",
+    "qualityReview": "Derived from reviewed round-2 original.",
+    "productionMethod": "Crop of generated photo"
+  },
+  {
+    "file": "photography/hero-shop.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 394021,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:07:48.5820000Z",
+    "sha256": "DC291687E3FE366EB670B992312359849B47C5AD0C3D3391F6501A1CE06BA59C",
+    "qualityReview": "Native-resolution visual review: casting requested as Black Nigerian and visually consistent; textured exposed skin, individual natural hair, coherent hands and background, available-light grain; no obvious synthetic defects observed.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "photography/hero-shop-mobile.jpg",
+    "width": 783,
+    "height": 1392,
+    "bytes": 104711,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:19:19.8175943Z",
+    "sha256": "4EB626B604C04E137677860AF60EBD2CEA5FEB624643E15173703F5C9F57959C",
+    "qualityReview": "Derived from reviewed round-2 original.",
+    "productionMethod": "Crop of generated photo"
+  },
+  {
+    "file": "photography/pain-1-busy-hands.jpg",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 454538,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:12:32.1370000Z",
+    "sha256": "3742DEC7C2159D1FCDAFDE6F8755E862250FC4C443C10A892220C240770171E3",
+    "qualityReview": "Full-frame and native detail visual review passed: textured exposed skin/hair, plausible hands, coherent available-light setting, no obvious synthetic defects. All depicted people were explicitly prompted as Black Nigerian.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "photography-review.png",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 1057691,
+    "transparent": true,
+    "placeholder": false,
+    "round": 3,
+    "modifiedUtc": "2026-11-16T18:03:09.3656575Z",
+    "sha256": "CECECFCE2AF582D25A2EF07A1FD6CC16F12AF9116A9D1F0B2133ADFDA0E1CD45",
+    "qualityReview": "Round 3 review: existing photography plus the three newly approved professional testimonial originals.",
+    "productionMethod": "Review contact sheet"
+  },
+  {
+    "file": "posters/testimonial-clinic-placeholder.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 372005,
+    "transparent": false,
+    "placeholder": true,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:15:02.7600000Z",
+    "sha256": "760D6DC5F7E2B255FDE8672520CD70B29BBB7B9AB70639C2A4F995AD04F31B07",
+    "qualityReview": "Full-frame plus native face/hair detail review: natural asymmetric features, exposed skin texture and grain, individual braid/beard texture, plausible gesturing hands, coherent real-business background. Fictional Black Nigerian owner casting; no testimonial claims.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "posters/testimonial-clinic-placeholder-mobile.jpg",
+    "width": 522,
+    "height": 928,
+    "bytes": 53619,
+    "transparent": false,
+    "placeholder": true,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:19:19.9110975Z",
+    "sha256": "144693E7A03461FFD899F7078B519A3783C272142AA48FDC075FF7A07AA86B2B",
+    "qualityReview": "Checked face framing with subject-specific focal position.",
+    "productionMethod": "Crop of generated photo"
+  },
+  {
+    "file": "posters/testimonial-restaurant-placeholder.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 378806,
+    "transparent": false,
+    "placeholder": true,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:15:02.4270000Z",
+    "sha256": "1C80F6DB37957C1DC68494622C7A1190D86411589BBA6958EDAFDF3807C33262",
+    "qualityReview": "Full-frame plus native face/hair detail review: natural asymmetric features, exposed skin texture and grain, individual braid/beard texture, plausible gesturing hands, coherent real-business background. Fictional Black Nigerian owner casting; no testimonial claims.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "posters/testimonial-restaurant-placeholder-mobile.jpg",
+    "width": 522,
+    "height": 928,
+    "bytes": 54800,
+    "transparent": false,
+    "placeholder": true,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:19:19.9897124Z",
+    "sha256": "E2F73907BA13831363B49281D05C0958840B49E68152970C507BA64333728B2D",
+    "qualityReview": "Checked face framing with subject-specific focal position.",
+    "productionMethod": "Crop of generated photo"
+  },
+  {
+    "file": "posters/testimonial-salon-placeholder.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 428500,
+    "transparent": false,
+    "placeholder": true,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:15:02.0950000Z",
+    "sha256": "C4DC3EF1F7620939629E401C25FEA6DF16E47259891B9036CE3781221F9B4E9D",
+    "qualityReview": "Full-frame plus native face/hair detail review: natural asymmetric features, exposed skin texture and grain, individual braid/beard texture, plausible gesturing hands, coherent real-business background. Fictional Black Nigerian owner casting; no testimonial claims.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "posters/testimonial-salon-placeholder-mobile.jpg",
+    "width": 522,
+    "height": 928,
+    "bytes": 65767,
+    "transparent": false,
+    "placeholder": true,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:19:20.0836629Z",
+    "sha256": "2DA9923712A1CA7A547DF4F09CBCD68E0605DE64AEF546659F398F13D9C5BF07",
+    "qualityReview": "Checked face framing with subject-specific focal position.",
+    "productionMethod": "Crop of generated photo"
+  },
+  {
+    "file": "posters/testimonial-shop-placeholder.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 372696,
+    "transparent": false,
+    "placeholder": true,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:15:03.1430000Z",
+    "sha256": "02FBEE5E579F440A97C007B8572A7B2C3CE7EA28A7DE8A2BF03ED0FAD8A66E76",
+    "qualityReview": "Full-frame plus native face/hair detail review: natural asymmetric features, exposed skin texture and grain, individual braid/beard texture, plausible gesturing hands, coherent real-business background. Fictional Black Nigerian owner casting; no testimonial claims.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "posters/testimonial-shop-placeholder-mobile.jpg",
+    "width": 522,
+    "height": 928,
+    "bytes": 60596,
+    "transparent": false,
+    "placeholder": true,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T15:19:20.1620146Z",
+    "sha256": "1C609A7598160191E71668ABA0EFF6D575C2263C09B52CD562FFA0C6BA6D748D",
+    "qualityReview": "Checked face framing with subject-specific focal position.",
+    "productionMethod": "Crop of generated photo"
+  },
+  {
+    "file": "ui/booking-card.svg",
+    "width": 600,
+    "height": 170,
+    "bytes": 414,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:49:49.1844789Z",
+    "sha256": "0DDAC38ACB787B3BD811F981735E681F715811708A9B47276DFD343AA9DD80AF",
+    "qualityReview": "Reapproved neutral native UI object.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "ui/browser-frame.svg",
+    "width": 1200,
+    "height": 800,
+    "bytes": 405,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:49:44.5908642Z",
+    "sha256": "7D73A5C47576DAEBD85A8D78134379E9A158D46907FD3B0C5CC35EFDE8771A8A",
+    "qualityReview": "Reapproved neutral native UI object.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "ui/chat-bubbles.svg",
+    "width": 600,
+    "height": 320,
+    "bytes": 308,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:49:47.5322377Z",
+    "sha256": "D937299F70608895E38106BB6671BC3F5F0DEE6F673ED4B1F8906F3FDCC52BE3",
+    "qualityReview": "Reapproved neutral native UI object.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "ui/mock-before-after.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2169635,
+    "transparent": false,
+    "placeholder": true,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T14:26:27.3470000Z",
+    "sha256": "7D4F0FB3FCD6C6297B0DB5FEEE1907B6B27D2BDD492F1737F5FEDBCAB5CB8385",
+    "qualityReview": "Verified both URL bars read gardenkitchen-demo.co.uk; demo name and Lagos address; Nigerian food photograph, neutral monochrome and exactly one gold booking button; no real contact details or logos.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ui/mock-chat-booking.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 1538503,
+    "transparent": false,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:52:05.0485494Z",
+    "sha256": "DD9765E869062229FF096FC5628C7F0091A5F2C05568F3A0A22EB289A77E1F3B",
+    "qualityReview": "Reapproved per revision file; no people or nationality-dependent scene.",
+    "productionMethod": "Built-in image generation"
+  },
+  {
+    "file": "ui/phone-frame.svg",
+    "width": 400,
+    "height": 800,
+    "bytes": 392,
+    "transparent": true,
+    "placeholder": false,
+    "round": 2,
+    "modifiedUtc": "2026-11-16T12:49:40.2948393Z",
+    "sha256": "3F9FE4992984AC5F2D27D16B721D1036209889849DD651B877853B810A4212AD",
+    "qualityReview": "Reapproved neutral native UI object.",
+    "productionMethod": "Native SVG"
+  },
+  {
+    "file": "posters/testimonial-realestate-placeholder.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 320902,
+    "transparent": false,
+    "placeholder": true,
+    "round": 3,
+    "modifiedUtc": "2026-11-16T17:52:42.2904310Z",
+    "sha256": "B6B74A5EAE474E636246C4B3AD21308A83465E158274E53437C2EA2EE4A6AF92",
+    "qualityReview": "Reviewed full frame and native-resolution skin/hair/hand details against approved references. Natural pores, grain, asymmetry and textured clothing; coherent workplace; no obvious synthetic defects observed. Black Nigerian professional casting explicitly specified. Lit unread-message smartphone visible; gaze off-camera left; no readable text or logos observed.",
+    "productionMethod": "Built-in image generation; JPEG export"
+  },
+  {
+    "file": "posters/testimonial-realestate-placeholder-mobile.jpg",
+    "width": 522,
+    "height": 928,
+    "bytes": 134403,
+    "transparent": false,
+    "placeholder": true,
+    "round": 3,
+    "modifiedUtc": "2026-11-16T17:52:42.3531592Z",
+    "sha256": "006B13DD4A51D449262FA50ADAA9122D5C845131D453FC90740AE57EC29BD602",
+    "qualityReview": "Visually checked final mobile framing: face, hands and illuminated new-message screen remain visible.",
+    "productionMethod": "Native crop of round-3 generated photograph"
+  },
+  {
+    "file": "posters/testimonial-law-placeholder.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 304354,
+    "transparent": false,
+    "placeholder": true,
+    "round": 3,
+    "modifiedUtc": "2026-11-16T17:52:42.5252461Z",
+    "sha256": "46EA0294CC541116C01A17F1528E494A7CA0E0BB70A28E796B107E49A45DBD68",
+    "qualityReview": "Reviewed full frame and native-resolution skin/hair/hand details against approved references. Natural pores, grain, asymmetry and textured clothing; coherent workplace; no obvious synthetic defects observed. Black Nigerian professional casting explicitly specified. Lit unread-message smartphone visible; gaze off-camera left; no readable text or logos observed.",
+    "productionMethod": "Built-in image generation; JPEG export"
+  },
+  {
+    "file": "posters/testimonial-law-placeholder-mobile.jpg",
+    "width": 522,
+    "height": 928,
+    "bytes": 117617,
+    "transparent": false,
+    "placeholder": true,
+    "round": 3,
+    "modifiedUtc": "2026-11-16T17:52:42.5725248Z",
+    "sha256": "C51973B7A768CE8FA5D3BCF05A6E4D08E4F7144974F450BBF7D1B83717E2F606",
+    "qualityReview": "Visually checked final mobile framing: face, hands and illuminated new-message screen remain visible.",
+    "productionMethod": "Native crop of round-3 generated photograph"
+  },
+  {
+    "file": "posters/testimonial-hotel-placeholder.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 335603,
+    "transparent": false,
+    "placeholder": true,
+    "round": 3,
+    "modifiedUtc": "2026-11-16T17:52:42.8152452Z",
+    "sha256": "E01212B695060CC174423E615B9B1EB1015A7471DC254AFEC7BBF181DB6A4265",
+    "qualityReview": "Reviewed full frame and native-resolution skin/hair/hand details against approved references. Natural pores, grain, asymmetry and textured clothing; coherent workplace; no obvious synthetic defects observed. Black Nigerian professional casting explicitly specified. Lit unread-message smartphone visible; gaze off-camera left; no readable text or logos observed.",
+    "productionMethod": "Built-in image generation; JPEG export"
+  },
+  {
+    "file": "posters/testimonial-hotel-placeholder-mobile.jpg",
+    "width": 522,
+    "height": 928,
+    "bytes": 131184,
+    "transparent": false,
+    "placeholder": true,
+    "round": 3,
+    "modifiedUtc": "2026-11-16T17:52:42.8332008Z",
+    "sha256": "63D5355F222381D7C349506A364BD4C30898645B1C1E3CDF5C62B9CD983E2F88",
+    "qualityReview": "Visually checked final mobile framing: face, hands and illuminated new-message screen remain visible.",
+    "productionMethod": "Native crop of round-3 generated photograph"
+  },
+  {
+    "file": "avatars/avatar-01.jpg",
+    "width": 512,
+    "height": 512,
+    "bytes": 96814,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:36.311Z",
+    "sha256": "52DA5A1C2FCF8D3347DF3959670BA4E0E704A858E5AE8FD92FFA98A3841128FD",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        512,
+        512
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "avatars/avatar-02.jpg",
+    "width": 512,
+    "height": 512,
+    "bytes": 77429,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:36.457Z",
+    "sha256": "6463E177EF3DF5524D93040DAEEE1486C5C9083EDC7B7C00C9FDF57CBBF0E8CB",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        512,
+        512
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "avatars/avatar-03.jpg",
+    "width": 512,
+    "height": 512,
+    "bytes": 112429,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:36.623Z",
+    "sha256": "27A85106ABAC96568C3413BE66F89A360280CABC2168BFD5AF76FAF3103FF43B",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        512,
+        512
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "avatars/avatar-04.jpg",
+    "width": 512,
+    "height": 512,
+    "bytes": 101595,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:36.756Z",
+    "sha256": "41D6F2B662ABD2A9F0861F4333B136E10D9BE55ACFCC5C58C7642F1EC78CF3FF",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        512,
+        512
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "avatars/avatar-05.jpg",
+    "width": 512,
+    "height": 512,
+    "bytes": 101494,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:36.906Z",
+    "sha256": "3C942A00435E0A1535C4F0B2351E94AD6502A874668443AC03E2A4833B4F21FE",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        512,
+        512
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "avatars/avatar-06.jpg",
+    "width": 512,
+    "height": 512,
+    "bytes": 103208,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:37.025Z",
+    "sha256": "1A19C67D7A055A016BD8172D199F4ACAC1A16EFC495CCAAD206D5B76B1BF4D49",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        512,
+        512
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "avatars/avatar-07.jpg",
+    "width": 512,
+    "height": 512,
+    "bytes": 100426,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:37.145Z",
+    "sha256": "7DB7C5EBA4518E0B37CEF7C127AA65DCDBC8C6322FCAF50AEFEA0F833F36AD79",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        512,
+        512
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "avatars/avatar-08.jpg",
+    "width": 512,
+    "height": 512,
+    "bytes": 103444,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:37.272Z",
+    "sha256": "A9B4F15466497AC899DCC8F049B66980A23A20F0B3C3F9AC6326AAD911A01CE1",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        512,
+        512
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "avatars/avatar-09.jpg",
+    "width": 512,
+    "height": 512,
+    "bytes": 89998,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:37.405Z",
+    "sha256": "A0EEB3F09FE0B85797A5FC982283E70F331109598BD2F954F4C6DA42C947906D",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        512,
+        512
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "avatars/avatar-10.jpg",
+    "width": 512,
+    "height": 512,
+    "bytes": 97929,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:37.505Z",
+    "sha256": "1CCDAEC1D4AD615421D1A4526DA204AE49D576CDB9B8E17E408EC33008E22D3F",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        512,
+        512
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "chat-media/clinic-room.jpg",
+    "width": 1080,
+    "height": 1350,
+    "bytes": 488393,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:03:36.143Z",
+    "sha256": "96DCC7705DDCFADBACEA2D008A8294E8DE597E54C766DCD796688A2200E40EBE",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1122,
+        1402
+      ],
+      "delivered": [
+        1080,
+        1350
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "chat-media/hotel-deluxe-room.jpg",
+    "width": 1080,
+    "height": 1350,
+    "bytes": 434639,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:03:35.951Z",
+    "sha256": "94F2A55C8B6D25D70D5BBB0C9E5ACC183EF76CD860F59658B6E62C47044D3E49",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1122,
+        1402
+      ],
+      "delivered": [
+        1080,
+        1350
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "chat-media/property-bedroom.jpg",
+    "width": 1080,
+    "height": 1350,
+    "bytes": 373683,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:03:35.679Z",
+    "sha256": "1517B5781406889B77C018234DCD4948D45340CE432FD18D1AAAA42562EB5BD3",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1122,
+        1402
+      ],
+      "delivered": [
+        1080,
+        1350
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "chat-media/property-kitchen.jpg",
+    "width": 1080,
+    "height": 1350,
+    "bytes": 407241,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:03:35.837Z",
+    "sha256": "2E3768DDE9610C03D9D665DC2D21EBB5FF5DAF6E92D41A68753E978EF39BC719",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1122,
+        1402
+      ],
+      "delivered": [
+        1080,
+        1350
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "chat-media/property-livingroom.jpg",
+    "width": 1080,
+    "height": 1350,
+    "bytes": 450673,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:03:35.462Z",
+    "sha256": "0F2B8C4D3B68C7F6D7127A2BFF846CB971DD1C4B919F6ADFB789DB8CB8888823",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1122,
+        1402
+      ],
+      "delivered": [
+        1080,
+        1350
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "icons/icon-channel-email.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 285,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T18:58:42.599Z",
+    "sha256": "BF67647A6994CAEF7AB392BF4AB5C1A710FD783CEA7F7D7C9D1ED07C465E3FD2",
+    "productionMethod": "Hand-authored native SVG",
+    "qualityReview": "Compared at 24, 48 and 96px with icon-message-missed; 1.5px ink stroke, round joins, generic non-brand symbols."
+  },
+  {
+    "file": "icons/icon-channel-sms.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 382,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T18:58:43.518Z",
+    "sha256": "2FC0C12AF4E6B8DBF9B69FFF44C309F7EEEE396090458684B031C0EED7322344",
+    "productionMethod": "Hand-authored native SVG",
+    "qualityReview": "Compared at 24, 48 and 96px with icon-message-missed; 1.5px ink stroke, round joins, generic non-brand symbols."
+  },
+  {
+    "file": "icons/icon-channel-social.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 321,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T18:58:40.852Z",
+    "sha256": "458BE3F027F8088F832726938F52AF718E1299224F291B8D3A19CB80E55BA98A",
+    "productionMethod": "Hand-authored native SVG",
+    "qualityReview": "Compared at 24, 48 and 96px with icon-message-missed; 1.5px ink stroke, round joins, generic non-brand symbols."
+  },
+  {
+    "file": "icons/icon-channel-website.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 380,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T18:58:38.911Z",
+    "sha256": "AA5567EB5AFA7ECCF6E8E25A026E7B05EA496EEB312B052DF12F77EC78C6C2C9",
+    "productionMethod": "Hand-authored native SVG",
+    "qualityReview": "Compared at 24, 48 and 96px with icon-message-missed; 1.5px ink stroke, round joins, generic non-brand symbols."
+  },
+  {
+    "file": "icons/icon-clock-24.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 340,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T18:58:44.423Z",
+    "sha256": "4B6B07958F35EFCA083FE3856E39935ACDBE946C4458069B6524524ED775B792",
+    "productionMethod": "Hand-authored native SVG",
+    "qualityReview": "Compared at 24, 48 and 96px with icon-message-missed; 1.5px ink stroke, round joins, generic non-brand symbols."
+  },
+  {
+    "file": "icons/icon-follow-up.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 312,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T18:58:46.821Z",
+    "sha256": "0E66D244522B35078C1B56D8733424EECFF8B55311D11110EA44709060B37548",
+    "productionMethod": "Hand-authored native SVG",
+    "qualityReview": "Compared at 24, 48 and 96px with icon-message-missed; 1.5px ink stroke, round joins, generic non-brand symbols."
+  },
+  {
+    "file": "icons/icon-language.svg",
+    "width": 24,
+    "height": 24,
+    "bytes": 369,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T18:58:45.465Z",
+    "sha256": "13AE266BA5CD59C47530F3374C4079727BC513F6C8168996B848DE1F42E65C4E",
+    "productionMethod": "Hand-authored native SVG",
+    "qualityReview": "Compared at 24, 48 and 96px with icon-message-missed; 1.5px ink stroke, round joins, generic non-brand symbols."
+  },
+  {
+    "file": "illustrations/feature-booking.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 138441,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:44.417Z",
+    "sha256": "8C3908486F06B2AA9D7F7FFC2DA225ADAE3DF088C3C4BCC65DBE283BE0388AEF",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        2048,
+        2048
+      ],
+      "method": "Model raster -> VTracer colour cutout spline -> 2 cleaned compound paths -> transparent 2048px vector render; no hand-coded scene paths.",
+      "vector": "illustrations/feature-booking.svg",
+      "traceConfig": {
+        "filterSpeckle": 10,
+        "cornerThreshold": 70,
+        "lengthThreshold": 3.5,
+        "maxIterations": 4,
+        "pathPrecision": 2
+      }
+    }
+  },
+  {
+    "file": "illustrations/feature-booking.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 42033,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:44.334Z",
+    "sha256": "EB6CBB4BDC96D09CDF2E63365BBBF51B3773358A43E70740CA4CEA6A27C422BF",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail."
+  },
+  {
+    "file": "illustrations/feature-channels.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 92232,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:42.884Z",
+    "sha256": "B5BB3438092B6C4E30D606C2FEC240CA45505A01EE29A3BC8E43FB22D6E20186",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        2048,
+        2048
+      ],
+      "method": "Model raster -> VTracer colour cutout spline -> 2 cleaned compound paths -> transparent 2048px vector render; no hand-coded scene paths.",
+      "vector": "illustrations/feature-channels.svg",
+      "traceConfig": {
+        "filterSpeckle": 10,
+        "cornerThreshold": 70,
+        "lengthThreshold": 3.5,
+        "maxIterations": 4,
+        "pathPrecision": 2
+      }
+    }
+  },
+  {
+    "file": "illustrations/feature-channels.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 16779,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:42.835Z",
+    "sha256": "4D6F375EEEFE9DC81F20045B6B8DE4C3BC1EE86470BB35C0A107263612A8E426",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail."
+  },
+  {
+    "file": "illustrations/feature-followup.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 112780,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:25:47.595Z",
+    "sha256": "854EEEEA4EDEC3432C5F74A3953F137BADB720B5627F459E11B5B0B61A3C2B79",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        2048,
+        2048
+      ],
+      "method": "Model raster -> VTracer colour cutout spline -> 2 cleaned compound paths -> transparent 2048px vector render; no hand-coded scene paths.",
+      "vector": "illustrations/feature-followup.svg",
+      "traceConfig": {
+        "filterSpeckle": 10,
+        "cornerThreshold": 70,
+        "lengthThreshold": 3.5,
+        "maxIterations": 4,
+        "pathPrecision": 2
+      }
+    }
+  },
+  {
+    "file": "illustrations/feature-followup.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 32421,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:25:47.423Z",
+    "sha256": "E8F1B7E5C298CD16100CFF0525DB8649363AD5244D1E0EA0CA90D5DC1AD1AF24",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail."
+  },
+  {
+    "file": "illustrations/feature-handover.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 114407,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:45.849Z",
+    "sha256": "7F12AE46B236E7C6591FFBF80BBEDAEEA2267AF322E64E319B2FC6A12949DF53",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        2048,
+        2048
+      ],
+      "method": "Model raster -> VTracer colour cutout spline -> 2 cleaned compound paths -> transparent 2048px vector render; no hand-coded scene paths.",
+      "vector": "illustrations/feature-handover.svg",
+      "traceConfig": {
+        "filterSpeckle": 10,
+        "cornerThreshold": 70,
+        "lengthThreshold": 3.5,
+        "maxIterations": 4,
+        "pathPrecision": 2
+      }
+    }
+  },
+  {
+    "file": "illustrations/feature-handover.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 32768,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:45.783Z",
+    "sha256": "70621A14F0364DC41918E66C3C8E4E8A7F0D17A50C5974F39E4384ABC4A6B18A",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail."
+  },
+  {
+    "file": "illustrations/feature-summary.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 85247,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:49.646Z",
+    "sha256": "3983F73A49EEAC99808AE9D2AEB6ED1D80B7AEE9D0348C52F2E1CA5397FC19E9",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        2048,
+        2048
+      ],
+      "method": "Model raster -> VTracer colour cutout spline -> 2 cleaned compound paths -> transparent 2048px vector render; no hand-coded scene paths.",
+      "vector": "illustrations/feature-summary.svg",
+      "traceConfig": {
+        "filterSpeckle": 10,
+        "cornerThreshold": 70,
+        "lengthThreshold": 3.5,
+        "maxIterations": 4,
+        "pathPrecision": 2
+      }
+    }
+  },
+  {
+    "file": "illustrations/feature-summary.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 21533,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:49.580Z",
+    "sha256": "B0386EFC9AA347D645C584DE093421861478C06ED02B8C3115F6984CD1B75F3D",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail."
+  },
+  {
+    "file": "illustrations/feature-trained.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 158874,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:42.018Z",
+    "sha256": "1FC847C1687F17659C1D750CF1546CEB3FE3DBC42D6391BD41DE300B0653EC72",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail.",
+    "processing": {
+      "native": [
+        1254,
+        1254
+      ],
+      "delivered": [
+        2048,
+        2048
+      ],
+      "method": "Model raster -> VTracer colour cutout spline -> 2 cleaned compound paths -> transparent 2048px vector render; no hand-coded scene paths.",
+      "vector": "illustrations/feature-trained.svg",
+      "traceConfig": {
+        "filterSpeckle": 10,
+        "cornerThreshold": 70,
+        "lengthThreshold": 3.5,
+        "maxIterations": 4,
+        "pathPrecision": 2
+      }
+    }
+  },
+  {
+    "file": "illustrations/feature-trained.svg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 62321,
+    "transparent": true,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:08:41.919Z",
+    "sha256": "7B855EFB7CD5154E92A930367A5ED2FBCC22BA0EC64467A3E9C50BB7195C6DEB",
+    "productionMethod": "Built-in image generation; VTracer vectorization; transparent vector-rendered PNG",
+    "qualityReview": "Model raster vectorized; checked at 200px and larger; transparent, ink and one gold detail."
+  },
+  {
+    "file": "showreel-broll/lagos-dusk.jpg",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 532348,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:02:52.796Z",
+    "sha256": "58F25F575B0A96A0692B8BBB93A91603FE1E6FFC98A5A89CE741C2255EBDB1C0",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1672,
+        941
+      ],
+      "delivered": [
+        1920,
+        1080
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "showreel-broll/lagos-night-traffic.jpg",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 510751,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:02:52.935Z",
+    "sha256": "189BDDB86A14ADE62A8C7839591752D8068B6DE2938C020F07825BD95F5FE154",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1672,
+        941
+      ],
+      "delivered": [
+        1920,
+        1080
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "showreel-broll/lekki-sunrise.jpg",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 546540,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:02:53.229Z",
+    "sha256": "CABA3AD522382DA68C8D2DD17C2AD89349F2BAB656D2C3DC1E3E34AF71842D5F",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1672,
+        941
+      ],
+      "delivered": [
+        1920,
+        1080
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "showreel-broll/office-morning-busy.jpg",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 552464,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:02:53.344Z",
+    "sha256": "A8CE483FCCB395FE784E370C34ACB2B722543658BC16E8433BF39B6C7D9C5C84",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1672,
+        941
+      ],
+      "delivered": [
+        1920,
+        1080
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "showreel-broll/office-night-empty.jpg",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 469637,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:02:53.076Z",
+    "sha256": "262179C7E51A92787CAD790AF955E9857E8F674EF71D8C4EBFCFBBC83D2AE023",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Full frame and native detail visually reviewed for coherent objects, natural texture, neutral monochrome, no logos/text; Nigerian casting where people are present.",
+    "processing": {
+      "native": [
+        1672,
+        941
+      ],
+      "delivered": [
+        1920,
+        1080
+      ],
+      "method": "Conventional Lanczos resize and neutral grayscale JPEG, quality 95, 4:4:4; no AI upscaling, skin retouching or smoothing."
+    }
+  },
+  {
+    "file": "showreel-plates/plate-customer-night-16x9.jpg",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 780595,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:33:25.156Z",
+    "sha256": "32B911C07D3DD3A04104143B94C64C177BC42AA2AC1D5EE8167EBF6272D7284B",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-customer-night-16x9.png",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 1483049,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:33:24.837Z",
+    "sha256": "A3477B7276F4ECF5A0A48614FDCE9396057D0026D5C347F69D3EAED733A66E0C",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-customer-night-9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 783267,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:03:38.636Z",
+    "sha256": "073DDF5DFFB66A8F537A36422C875591D61BC0BA732399EDAC0484D4C6996AA7",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-customer-night-9x16.png",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 1488030,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:03:38.412Z",
+    "sha256": "F21992488DD0DA3A4D1D4795EB4EB236935B3D0BA636EA94AFB85F8E1D84972E",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-hand-closeup-16x9.jpg",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 601620,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:33:27.018Z",
+    "sha256": "83B7F9650AE40D6F7E3D76D8630A025709A0F2DB569239FFC2FDF8F5F123469F",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-hand-closeup-16x9.png",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 1120927,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:33:26.744Z",
+    "sha256": "1B1374AC1BA6BB8EBE9F897CFAA35EA95ABBCDCB806BE99F5F24BA7CCBF41365",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-hand-closeup-9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 693965,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:50:53.139Z",
+    "sha256": "747B76AC4BB6771486F1F3111A4CD8105C40C70745B4D53081C406617EDC12E1",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-hand-closeup-9x16.png",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 1278357,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:50:52.927Z",
+    "sha256": "004CB5B933D84F771ED1D5F05937399C33EADD5A86C33597E8299EC7C18AF4E5",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-owner-morning-16x9.jpg",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 954993,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:33:28.538Z",
+    "sha256": "48589ACA75794C295CAB92BD3C67560D6F9B544D64BB8B013436B9C062F09D4E",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-owner-morning-16x9.png",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 2045019,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T19:33:28.259Z",
+    "sha256": "2D34BD5449FCE76D23E91D92625E999E2909AEAF9E43055EB350A5558128FD4E",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-owner-morning-9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 785616,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:03:39.620Z",
+    "sha256": "FD1DF8996FC4AAD364F848F0FD430231B8A36E7826C5DA7834AD5BB7062505F6",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  },
+  {
+    "file": "showreel-plates/plate-owner-morning-9x16.png",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 1676425,
+    "transparent": false,
+    "placeholder": false,
+    "batch": "demo-showreel",
+    "modifiedUtc": "2026-11-16T20:03:39.442Z",
+    "sha256": "B409C7DC03D8DCFA2B2B2F0AECC24BB2970A0E3239B20B8D2B2D1EC9AD3FEB57",
+    "productionMethod": "Built-in image generation; conventional size conversion",
+    "qualityReview": "Reviewed skin/hands and screen visibility; green quadrilateral corners checked in temporary overlay; lossless PNG pixel conformance verified."
+  }
+]
