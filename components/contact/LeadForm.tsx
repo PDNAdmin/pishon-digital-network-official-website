@@ -48,9 +48,14 @@ export default function LeadForm({ defaultNeed = "both", formId = "lead" }: { de
   const [errors, setErrors] = useState<Record<string, string>>({});
   const [name, setName] = useState("");
   const started = useRef(false);
+  const mountedAt = useRef(0); // spam check: people take more than a couple of seconds to fill this in
+  const [limited, setLimited] = useState(false);
   const ch = CHANNELS.find((c) => c.v === channel)!;
 
   useEffect(() => setNeed(defaultNeed), [defaultNeed]);
+  useEffect(() => {
+    mountedAt.current = Date.now();
+  }, []);
 
   const onStart = () => {
     if (!started.current) {
@@ -82,8 +87,9 @@ export default function LeadForm({ defaultNeed = "both", formId = "lead" }: { de
       const res = await fetch("/api/lead", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name: n, business: biz, need, channel, contact, notes: fd.get("notes") || "", variant: params.get("for") || "both", utm, page: window.location.pathname }),
+        body: JSON.stringify({ name: n, business: biz, need, channel, contact, notes: fd.get("notes") || "", variant: params.get("for") || "both", utm, page: window.location.pathname, website: fd.get("website") || "", startedAt: mountedAt.current }),
       });
+      setLimited(res.status === 429);
       if (!res.ok) throw new Error("bad response");
       setStatus("done");
       track("form_submit", { form: formId, need });
@@ -117,20 +123,28 @@ export default function LeadForm({ defaultNeed = "both", formId = "lead" }: { de
       noValidate
       onSubmit={onSubmit}
       onFocus={onStart}
-      className="rounded-[var(--radius-card)] border border-grey-200 bg-white p-6 text-ink sm:p-8"
+      className="relative rounded-[var(--radius-card)] border border-grey-200 bg-white p-6 text-ink sm:p-8"
     >
       <p className="t-h3">Get your free plan</p>
       <p className="mt-1 text-sm text-grey-500">Takes about a minute.</p>
 
+      {/* honeypot: hidden from people and screen readers; bots fill it in and get silently dropped */}
+      <div aria-hidden="true" className="absolute -left-[9999px] h-px w-px overflow-hidden">
+        <label>
+          Website
+          <input type="text" name="website" tabIndex={-1} autoComplete="off" />
+        </label>
+      </div>
+
       <div className="mt-6 space-y-5">
         <div>
           <label htmlFor={`${uid}-name`} className="mb-2 block text-sm font-medium">Your name</label>
-          <input id={`${uid}-name`} name="name" autoComplete="name" placeholder="e.g. Tolu Adebayo" className={`${field} ${err("name")}`} aria-invalid={!!errors.name} aria-describedby={errors.name ? `${uid}-name-e` : undefined} />
+          <input id={`${uid}-name`} name="name" maxLength={80} autoComplete="name" placeholder="e.g. Tolu Adebayo" className={`${field} ${err("name")}`} aria-invalid={!!errors.name} aria-describedby={errors.name ? `${uid}-name-e` : undefined} />
           {errors.name && <p id={`${uid}-name-e`} className="mt-2 flex items-center gap-2 text-sm"><ErrIcon />{errors.name}</p>}
         </div>
         <div>
           <label htmlFor={`${uid}-biz`} className="mb-2 block text-sm font-medium">Your business</label>
-          <input id={`${uid}-biz`} name="business" autoComplete="organization" placeholder="e.g. Prime Homes Realty" className={`${field} ${err("business")}`} aria-invalid={!!errors.business} aria-describedby={errors.business ? `${uid}-biz-e` : undefined} />
+          <input id={`${uid}-biz`} name="business" maxLength={120} autoComplete="organization" placeholder="e.g. Prime Homes Realty" className={`${field} ${err("business")}`} aria-invalid={!!errors.business} aria-describedby={errors.business ? `${uid}-biz-e` : undefined} />
           {errors.business && <p id={`${uid}-biz-e`} className="mt-2 flex items-center gap-2 text-sm"><ErrIcon />{errors.business}</p>}
         </div>
 
@@ -151,7 +165,7 @@ export default function LeadForm({ defaultNeed = "both", formId = "lead" }: { de
             ))}
           </div>
           <label htmlFor={`${uid}-contact`} className="sr-only">{ch.placeholder}</label>
-          <input id={`${uid}-contact`} name="contact" type={ch.type} inputMode={ch.type === "tel" ? "tel" : "email"} autoComplete={ch.type === "tel" ? "tel" : "email"} placeholder={ch.placeholder} className={`${field} ${err("contact")}`} aria-invalid={!!errors.contact} aria-describedby={errors.contact ? `${uid}-contact-e` : undefined} />
+          <input id={`${uid}-contact`} name="contact" maxLength={120} type={ch.type} inputMode={ch.type === "tel" ? "tel" : "email"} autoComplete={ch.type === "tel" ? "tel" : "email"} placeholder={ch.placeholder} className={`${field} ${err("contact")}`} aria-invalid={!!errors.contact} aria-describedby={errors.contact ? `${uid}-contact-e` : undefined} />
           {errors.contact && <p id={`${uid}-contact-e`} className="mt-2 flex items-center gap-2 text-sm"><ErrIcon />{errors.contact}</p>}
         </fieldset>
 
@@ -159,7 +173,7 @@ export default function LeadForm({ defaultNeed = "both", formId = "lead" }: { de
           <label htmlFor={`${uid}-notes`} className="mb-2 block text-sm font-medium">
             Anything we should know? <span className="font-normal text-grey-500">(optional)</span>
           </label>
-          <textarea id={`${uid}-notes`} name="notes" rows={3} placeholder="e.g. We get lots of enquiries after hours and miss most of them" className={`${field} h-auto resize-none py-3 border-grey-200`} />
+          <textarea id={`${uid}-notes`} name="notes" maxLength={1000} rows={3} placeholder="e.g. We get lots of enquiries after hours and miss most of them" className={`${field} h-auto resize-none py-3 border-grey-200`} />
         </div>
       </div>
 
@@ -169,7 +183,7 @@ export default function LeadForm({ defaultNeed = "both", formId = "lead" }: { de
         </Button>
         {status === "error" ? (
           <p className="mt-3 text-sm" role="alert">
-            Something went wrong on our end. Please try again, or message us on WhatsApp at{" "}
+            {limited ? "That's a few tries in a row. Please wait a few minutes and try again, or message us on WhatsApp at" : "Something went wrong on our end. Please try again, or message us on WhatsApp at"}{" "}
             <a className="underline" href={site.whatsappHref}>{site.whatsappDisplay}</a>.
           </p>
         ) : (
