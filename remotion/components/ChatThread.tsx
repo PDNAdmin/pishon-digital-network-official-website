@@ -95,7 +95,7 @@ function ImageMsg({ step, w }: { step: Extract<Step, { t: "image" }>; w: number 
     <div style={{ display: "flex", justifyContent: "flex-end", ...style }}>
       <div style={{ width: "62%", borderRadius: w * 0.04, overflow: "hidden", background: C.g200 }}>
         {step.src ? (
-          <Img src={asset(step.src)} style={{ width: "100%", height: w * 0.42, objectFit: "cover", display: "block" }} />
+          <Img alt="" src={asset(step.src)} style={{ width: "100%", height: w * 0.42, objectFit: "cover", display: "block" }} />
         ) : (
           <div style={{ height: w * 0.36, display: "flex", alignItems: "center", justifyContent: "center", fontFamily: MONO, fontSize: w * 0.024, color: C.g500 }}>PHOTO</div>
         )}

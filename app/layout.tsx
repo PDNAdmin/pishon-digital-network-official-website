@@ -5,7 +5,6 @@ import "./globals.css";
 import SmoothScroll from "@/components/motion/SmoothScroll";
 import Cursor from "@/components/motion/Cursor";
 import MicroFX from "@/components/motion/MicroFX";
-import ScrollRiver from "@/components/motion/ScrollRiver";
 
 const satoshi = localFont({
   src: "./fonts/Satoshi-Variable.woff2",
@@ -29,7 +28,10 @@ export const metadata: Metadata = {
   },
   description:
     "We build websites people trust, and AI assistants that reply, book and follow up day and night. So you stop losing customers while you're working.",
+  // TODO [CONFIRM]: final domain (metadataBase above) before launch
   openGraph: {
+    siteName: "Pishon Digital Network",
+    locale: "en_NG",
     title: "PDN · Pishon Digital Network",
     description:
       "Websites people trust, and assistants that answer your customers day and night.",
@@ -48,7 +50,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <SmoothScroll />
         <Cursor />
         <MicroFX />
-        <ScrollRiver />
         {children}
       </body>
     </html>

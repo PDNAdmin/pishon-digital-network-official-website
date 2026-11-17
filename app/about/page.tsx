@@ -11,6 +11,7 @@ import PlainToggle from "@/components/about/PlainToggle";
 
 export const metadata: Metadata = {
   title: "About",
+  alternates: { canonical: "/about" },
   description:
     "Pishon Digital Network is a small team that builds websites and AI assistants for businesses that serve customers. You talk directly to the people doing the work.",
 };

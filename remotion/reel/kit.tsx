@@ -111,7 +111,7 @@ export function ScreenOnPlate({ plate, screenWidth = 520, children, dim = 0 }: {
       <div style={{ position: "absolute", left: 0, top: 0, width: w, height: h, transformOrigin: "0 0", transform: quadMatrix(w, h, grow(p.q as [number, number][])), overflow: "hidden", background: C.paper }}>
         {children}
       </div>
-      <Img src={asset(p.src)} style={{ position: "absolute", inset: 0, width: p.w, height: p.h }} />
+      <Img alt="" src={asset(p.src)} style={{ position: "absolute", inset: 0, width: p.w, height: p.h }} />
       {dim > 0 && <div style={{ position: "absolute", inset: 0, background: `rgba(15,15,16,${dim})` }} />}
     </div>
   );

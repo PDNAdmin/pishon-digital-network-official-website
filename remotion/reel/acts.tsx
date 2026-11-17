@@ -38,7 +38,7 @@ function useCanvas() {
 }
 
 function Avatar({ src, size }: { src: string; size: number }) {
-  return <Img src={asset(src)} style={{ width: size, height: size, borderRadius: 999, objectFit: "cover", display: "block", flexShrink: 0 }} />;
+  return <Img alt="" src={asset(src)} style={{ width: size, height: size, borderRadius: 999, objectFit: "cover", display: "block", flexShrink: 0 }} />;
 }
 
 /* ==================================================================
@@ -70,7 +70,7 @@ function FieldThing({ it, s }: { it: FieldItem; s: number }) {
     case "bubble":
       return <div style={{ padding: `${22 * s}px ${30 * s}px`, borderRadius: 34 * s, borderBottomLeftRadius: 8 * s, background: C.white, fontSize: 34 * s, whiteSpace: "nowrap", boxShadow: "0 20px 40px rgba(15,15,16,0.12)", fontFamily: FONT }}>{it.text}</div>;
     case "photo":
-      return <div style={{ padding: 8 * s, background: C.white, borderRadius: 24 * s, boxShadow: "0 24px 48px rgba(15,15,16,0.16)" }}><Img src={asset(it.src!)} style={{ width: 260 * s, height: 190 * s, objectFit: "cover", borderRadius: 18 * s, display: "block" }} /></div>;
+      return <div style={{ padding: 8 * s, background: C.white, borderRadius: 24 * s, boxShadow: "0 24px 48px rgba(15,15,16,0.16)" }}><Img alt="" src={asset(it.src!)} style={{ width: 260 * s, height: 190 * s, objectFit: "cover", borderRadius: 18 * s, display: "block" }} /></div>;
     case "token":
       return <IconToken name={it.icon!} size={130 * s} />;
     case "pill":

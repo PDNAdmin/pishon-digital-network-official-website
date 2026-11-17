@@ -13,6 +13,7 @@ import { videos, quotes } from "@/lib/proof";
 
 export const metadata: Metadata = {
   title: "Get your free plan",
+  alternates: { canonical: "/contact" },
   description:
     "Free 20-minute call. Fixed price before we start. We reply within 1 working day. Websites people trust and AI assistants that answer your customers day and night.",
 };

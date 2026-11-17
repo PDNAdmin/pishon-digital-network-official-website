@@ -10,6 +10,7 @@ import ExampleBuilds from "@/components/work/ExampleBuilds";
 
 export const metadata: Metadata = {
   title: "Our work",
+  alternates: { canonical: "/work" },
   description: "Websites and AI assistants we've built for businesses that serve customers, and what changed for them: more calls, more bookings, faster replies.",
 };
 

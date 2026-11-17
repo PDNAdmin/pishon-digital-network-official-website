@@ -146,9 +146,9 @@ function SiteContent({ phone, d, hl }: { phone: boolean; d: SiteData; hl?: SiteK
             <p className="flex items-center gap-2 text-[14px] font-medium" style={{ color: BRAND }}>
               <Stars /> 4.9 · 212 Google reviews
             </p>
-            <h1 className={`mt-4 font-medium tracking-[-0.03em] ${phone ? "text-[38px] leading-[1.02]" : "text-[64px] leading-[0.98]"}`}>
+            <p role="presentation" className={`mt-4 font-medium tracking-[-0.03em] ${phone ? "text-[38px] leading-[1.02]" : "text-[64px] leading-[0.98]"}`}>
               Gentle dental care in Lekki.{d.satHours === "Closed" ? " Monday to Friday." : " Open on Saturdays."}
-            </h1>
+            </p>
             <p className={`mt-5 text-[#555] ${phone ? "text-[16px] leading-[1.5]" : "max-w-[30rem] text-[19px] leading-[1.5]"}`}>
               Check-ups, whitening and braces from a team that explains everything first. Your first consultation is free.
             </p>
@@ -170,7 +170,7 @@ function SiteContent({ phone, d, hl }: { phone: boolean; d: SiteData; hl?: SiteK
       <Mark k="services" hl={hl} round={0} label="Prices, up front">
         <section className={phone ? "bg-[#F6F5F1] px-5 py-10" : "bg-[#F6F5F1] px-16 py-16"}>
           <div className={phone ? "" : "flex items-end justify-between"}>
-            <h2 className={`font-medium tracking-[-0.02em] ${phone ? "text-[28px]" : "text-[40px]"}`}>Services and prices</h2>
+            <div className={`font-medium tracking-[-0.02em] ${phone ? "text-[28px]" : "text-[40px]"}`}>Services and prices</div>
             <p className={`text-[#666] ${phone ? "mt-2 text-[14px]" : "text-[16px]"}`}>No hidden costs. We accept most major HMOs.</p>
           </div>
           <div className={`mt-8 grid gap-3 ${phone ? "grid-cols-1" : "grid-cols-3"}`}>
@@ -192,7 +192,7 @@ function SiteContent({ phone, d, hl }: { phone: boolean; d: SiteData; hl?: SiteK
       <Mark k="hours" hl={hl} round={0} label="Hours + map">
         <section className={phone ? "px-5 py-10" : "grid grid-cols-[1fr_1.3fr] gap-12 px-16 py-16"}>
           <div>
-            <h2 className={`font-medium tracking-[-0.02em] ${phone ? "text-[28px]" : "text-[40px]"}`}>Visit us</h2>
+            <div className={`font-medium tracking-[-0.02em] ${phone ? "text-[28px]" : "text-[40px]"}`}>Visit us</div>
             <p className="mt-3 text-[16px] text-[#555]">12 Admiralty Way, Lekki Phase 1, Lagos</p>
             <dl className="mt-6 divide-y divide-[#eee] border-y border-[#eee]">
               {hours.map(([a, b]) => (
@@ -212,7 +212,7 @@ function SiteContent({ phone, d, hl }: { phone: boolean; d: SiteData; hl?: SiteK
       {/* reviews */}
       <Mark k="reviews" hl={hl} round={0} label="Real reviews">
         <section className={phone ? "bg-[#F6F5F1] px-5 py-10" : "bg-[#F6F5F1] px-16 py-16"}>
-          <h2 className={`font-medium tracking-[-0.02em] ${phone ? "text-[28px]" : "text-[40px]"}`}>What patients say</h2>
+          <div className={`font-medium tracking-[-0.02em] ${phone ? "text-[28px]" : "text-[40px]"}`}>What patients say</div>
           <div className={`mt-8 grid gap-3 ${phone ? "" : "grid-cols-3"}`}>
             {REVIEWS.map((r) => (
               <figure key={r.n} className="rounded-2xl bg-white p-6">

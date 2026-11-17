@@ -15,6 +15,7 @@ import { IconHandover, IconEdit, IconChartUp, IconShield } from "@/components/ic
 
 export const metadata: Metadata = {
   title: "AI Assistants",
+  alternates: { canonical: "/ai-assistants" },
   description:
     "An AI assistant that answers your customers on WhatsApp, Instagram and your website in seconds, books appointments, follows up and hands over to you when it matters. Day and night.",
 };

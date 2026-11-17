@@ -152,7 +152,7 @@ html.lenis, html.lenis body { height: auto; }
 @keyframes caret { 50% { opacity: 0; } }
 
 /* ================================================================
-   Micro-interactions (components/motion/MicroFX.tsx, RiverLine, ScrollRiver)
+   Micro-interactions (components/motion/MicroFX.tsx, RiverLine)
    Only active once JS has loaded (html.fx-ready) and motion is allowed.
 ================================================================ */
 
@@ -184,11 +184,9 @@ html.lenis, html.lenis body { height: auto; }
 @keyframes river-current { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
 .river-drop { animation: river-drop 2.4s var(--ease-out-expo) infinite; }
 @keyframes river-drop { from { transform: scale(1); opacity: 0.9; } to { transform: scale(4.5); opacity: 0; } }
-.river-flow { animation: river-flow 3s linear infinite; }
-@keyframes river-flow { to { transform: translateX(-60px); } }
 
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .river-current, .river-drop, .river-flow, .fx-ripple { animation: none; }
+  .river-current, .river-drop, .fx-ripple { animation: none; }
 }

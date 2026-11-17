@@ -16,6 +16,7 @@ import { FadeUp, RevealText } from "@/components/motion/Reveal";
 
 export const metadata: Metadata = {
   title: "Websites",
+  alternates: { canonical: "/websites" },
   description:
     "Websites that make people pick you: clear prices and services, one tap to book or call, fast on every phone, easy for you to update, and set up to be found on Google.",
 };

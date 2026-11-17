@@ -18,7 +18,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const c = caseBySlug((await params).slug);
   if (!c) return {};
-  return { title: `${c.client}, ${c.place}`, description: c.headline, robots: c.placeholder ? { index: false } : undefined };
+  return { title: `${c.client}, ${c.place}`, description: c.headline, alternates: { canonical: `/work/${c.slug}` }, robots: c.placeholder ? { index: false } : undefined };
 }
 
 function Label({ children, dark }: { children: React.ReactNode; dark?: boolean }) {
