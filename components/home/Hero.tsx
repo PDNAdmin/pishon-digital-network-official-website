@@ -20,7 +20,7 @@ function ExampleChat() {
     <figure
       data-example
       className="w-full max-w-[360px] rounded-[20px] border border-grey-200 bg-white p-4 text-ink shadow-[0_24px_60px_rgba(15,15,16,0.16)] sm:p-5"
-      aria-label="Example: a customer messages a clinic at night and the AI assistant books an appointment"
+      aria-label="Example: a customer asks a business about its services at night and the AI assistant answers and books a call"
     >
       <figcaption className="t-label flex items-center justify-between gap-3 border-b border-grey-200 pb-3 text-[10px] text-grey-500">
         <span>Example · an AI assistant at work</span>
@@ -33,7 +33,7 @@ function ExampleChat() {
       <div className="mt-4" data-bubble>
         <p className="mb-1.5 text-[12px] text-grey-500">A customer · 11:41 PM</p>
         <p className="w-fit max-w-[90%] rounded-2xl rounded-tl-md bg-grey-200 px-3.5 py-2.5 text-[14px] leading-snug">
-          Hi, can I see a doctor tomorrow morning?
+          Hello, can I find out more about your services and prices?
         </p>
       </div>
 
@@ -43,7 +43,7 @@ function ExampleChat() {
           Your AI assistant · 3 seconds later
         </p>
         <p className="max-w-[92%] rounded-2xl rounded-tr-md bg-ink px-3.5 py-2.5 text-[14px] leading-snug text-paper">
-          Yes. Dr. Okafor is free at 9:30 or 11:00 tomorrow. Shall I book 9:30 for you?
+          Of course! I've just sent you our full price list. Would you like a quick call tomorrow at 10:00 or 2:00?
         </p>
       </div>
 
@@ -51,7 +51,7 @@ function ExampleChat() {
         <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-gold text-[11px] font-bold text-ink" aria-hidden>
           ✓
         </span>
-        Appointment booked while the clinic was closed.
+        Call booked while the business was closed.
       </p>
     </figure>
   );
@@ -147,10 +147,18 @@ export default function Hero() {
             )}
           </div>
 
-          <p className="t-body-lg pretty mt-8 max-w-[34rem] text-grey-700 lg:mt-10" data-hero-fade>
-            When someone contacts your business, the first to reply usually wins them. We build websites that make people
-            trust you, and AI assistants that answer your customers, book appointments and follow up for you, day and night.
-          </p>
+          <div className="mt-8 max-w-[34rem] lg:mt-10" data-hero-fade>
+            <p className="t-body-lg pretty text-grey-700">
+              Reply to a new customer within <b className="font-medium text-ink">5 minutes</b> and you&apos;re{" "}
+              <b className="font-medium text-ink">100 times more likely</b> to reach them than if you wait 30. But you
+              can&apos;t reply in 5 minutes when you&apos;re with a client, or asleep.
+            </p>
+            <p className="t-body-lg pretty mt-4 text-grey-700">
+              So we build websites with an AI assistant built in. It answers your customers, books them in and helps you close
+              more deals, even when you&apos;re offline.
+            </p>
+            <p className="mt-3 text-xs text-grey-500">Source: Lead Response Management Study, MIT &amp; InsideSales.com (2007).</p>
+          </div>
 
           <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-4 lg:mt-10" data-hero-fade>
             <Button href="/contact">Book a free call</Button>

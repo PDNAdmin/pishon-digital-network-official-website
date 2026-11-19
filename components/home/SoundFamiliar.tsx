@@ -18,15 +18,15 @@ type Pain = {
 
 const pains: Pain[] = [
   {
-    quote: "“We miss messages while we're with clients.”",
-    body: "You're in a meeting, on a viewing or with a patient. By the time you reply, they've gone with someone else.",
+    quote: "“We miss new clients while we're busy serving paying ones.”",
+    body: "You're in a meeting, on a viewing or with a customer. By the time you reply, they've gone with someone else.",
     Icon: IconMessageMissed,
     img: "/images/illustrations/pain-missed.png",
     alt: "Line drawing: hands braiding hair while a phone fills up with unread messages",
     href: "/contact?for=assistant",
   },
   {
-    quote: "“People find us online, then leave.”",
+    quote: "“People find our business online, then leave without contacting us.”",
     body: "Your website is their first impression of you. If it looks dated or doesn't work on their phone, they assume your service is the same.",
     Icon: IconBrowserLeave,
     img: "/images/illustrations/pain-leave.png",
@@ -42,7 +42,7 @@ const pains: Pain[] = [
     href: "/contact?for=assistant",
   },
   {
-    quote: "“Nobody replies after we close.”",
+    quote: "“Nobody replies to our customers after closing hours.”",
     body: "Evenings and weekends are when most people finally get round to contacting you. That's exactly when nobody's there.",
     Icon: IconMoonPhone,
     img: "/images/illustrations/pain-afterhours.png",
@@ -99,9 +99,11 @@ export default function SoundFamiliar() {
           index="01"
           label="Sound familiar?"
           title="Good businesses lose customers in the gaps."
-          aside="It's not that you're bad at what you do. You and your team just can't be everywhere at once. Does any of this sound like your business?"
+          aside="It's not that you're bad at what you do. You and your team just can't be everywhere at once. Does any of this describe your business?"
         />
-        <FadeUp stagger={0.08} className="mt-16 grid gap-4 sm:grid-cols-2 lg:mt-20 lg:grid-cols-4 lg:gap-5">
+        {/* make the voice clear: these are the visitor's problems, not ours */}
+        <p className="t-label mt-16 text-grey-500 lg:mt-20">What business owners tell us, every week</p>
+        <FadeUp stagger={0.08} className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4 lg:gap-5">
           {pains.map((p, i) => (
             <PainCard key={p.quote} p={p} offset={i % 2 === 1} />
           ))}

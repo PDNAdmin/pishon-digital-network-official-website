@@ -54,7 +54,7 @@ type Props = {
   height?: number;
 };
 
-const N = 150; // sample points
+const N = 64; // sample points (enough for a smooth curve, cheap to move)
 const REACH = 110; // px: how far the cursor's influence reaches
 
 /** Catmull-Rom through points → smooth cubic path. */
@@ -82,12 +82,13 @@ export default function RiverLine({ variant = "a", dark = false, className = "",
   const [drawn, setDrawn] = useState(false);
 
   useEffect(() => {
-    if (!size || !size.w) return;
+    if (!size || !size.w || !wrap.current) return;
     registerGsap();
     const reduce = prefersReducedMotion();
     const fine = window.matchMedia("(pointer: fine)").matches;
+    let alive = true; // false once this line is gone (page change): every callback checks it
 
-    // sample the scaled path into points + normals
+    // sample the scaled path into points + normals (once per size)
     const d0 = scalePath(PATHS[variant], size.w / BASE_W, size.h / BASE_H);
     const probe = document.createElementNS("http://www.w3.org/2000/svg", "path");
     probe.setAttribute("d", d0);
@@ -107,34 +108,44 @@ export default function RiverLine({ variant = "a", dark = false, className = "",
     const disp = new Float32Array(N + 1), vel = new Float32Array(N + 1);
     const xs = new Float32Array(N + 1), ys = new Float32Array(N + 1);
     let progress = reduce ? 1 : 0;
+    let disturbed = false; // only rebuild the curve while it's actually moving
+    let wasDrawn = false;
     const pointer = { x: -9999, y: -9999, px: -9999, py: -9999, near: false };
+    let rect = wrap.current.getBoundingClientRect();
 
-    const render = () => {
+    line.current?.setAttribute("d", d0);
+    current.current?.setAttribute("d", d0);
+
+    /** cheap per-scroll update: just move the tip and end dot */
+    const placeMarkers = () => {
+      const k = Math.round(progress * N);
+      const tx = disturbed ? xs[k] : bx[k], ty = disturbed ? ys[k] : by[k];
+      if (tip.current) {
+        tip.current.setAttribute("transform", `translate(${tx.toFixed(1)} ${ty.toFixed(1)})`);
+        tip.current.style.opacity = progress > 0.01 && progress < 0.985 ? "1" : "0";
+      }
+      if (end.current) end.current.style.transform = `translate(${bx[N].toFixed(1)}px, ${by[N].toFixed(1)}px) translate(-50%, -50%) scale(${progress >= 0.985 ? 1 : 0})`;
+    };
+    /** full curve rebuild: only while the line is bending */
+    const renderCurve = () => {
       for (let i = 0; i <= N; i++) {
         xs[i] = bx[i] + nx[i] * disp[i];
         ys[i] = by[i] + ny[i] * disp[i];
       }
-      const d = smooth(xs, ys);
+      const d = disturbed ? smooth(xs, ys) : d0;
       line.current?.setAttribute("d", d);
       current.current?.setAttribute("d", d);
-      // the gold tip rides the end of the drawn part
-      const k = Math.round(progress * N);
-      if (tip.current) {
-        tip.current.setAttribute("transform", `translate(${xs[k].toFixed(1)} ${ys[k].toFixed(1)})`);
-        tip.current.style.opacity = progress > 0.01 && progress < 0.985 ? "1" : "0";
-      }
-      if (end.current) {
-        end.current.style.transform = `translate(${xs[N].toFixed(1)}px, ${ys[N].toFixed(1)}px) translate(-50%, -50%) scale(${progress >= 0.985 ? 1 : 0})`;
-      }
+      placeMarkers();
     };
 
     // physics: a string with springs, coupled neighbours, damping
     let raf = 0;
     let awake = false;
     const step = () => {
+      raf = 0;
+      if (!alive) return;
       let energy = 0;
-      const pxv = pointer.x - pointer.px, pyv = pointer.y - pointer.py;
-      const speed = Math.hypot(pxv, pyv);
+      const speed = Math.hypot(pointer.x - pointer.px, pointer.y - pointer.py);
       for (let i = 0; i <= N; i++) {
         let target = 0;
         if (pointer.near && i / N <= progress + 0.02) {
@@ -158,29 +169,31 @@ export default function RiverLine({ variant = "a", dark = false, className = "",
       disp[0] = disp[N] = 0;
       pointer.px = pointer.x;
       pointer.py = pointer.y;
-      render();
-      if (energy > 0.02 || pointer.near) raf = requestAnimationFrame(step);
+      disturbed = energy > 0.02;
+      if (!disturbed) disp.fill(0), vel.fill(0);
+      renderCurve();
+      if (disturbed || pointer.near) raf = requestAnimationFrame(step);
       else awake = false;
     };
     const wake = () => {
-      if (awake) return;
+      if (awake || !alive) return;
       awake = true;
       raf = requestAnimationFrame(step);
     };
 
     const toLocal = (e: PointerEvent) => {
-      const r = wrap.current!.getBoundingClientRect();
-      pointer.x = e.clientX - r.left;
-      pointer.y = e.clientY - r.top;
+      pointer.x = e.clientX - rect.left;
+      pointer.y = e.clientY - rect.top;
       const m = REACH;
-      pointer.near = pointer.x > -m && pointer.y > -m && pointer.x < r.width + m && pointer.y < r.height + m;
+      pointer.near = pointer.x > -m && pointer.y > -m && pointer.x < rect.width + m && pointer.y < rect.height + m;
     };
     const onMove = (e: PointerEvent) => {
+      if (!alive) return;
       toLocal(e);
       if (pointer.near) wake();
     };
-    // click near the line: pluck
     const onDown = (e: PointerEvent) => {
+      if (!alive) return;
       toLocal(e);
       if (!pointer.near) return;
       let best = -1, bd = 1e9;
@@ -189,15 +202,41 @@ export default function RiverLine({ variant = "a", dark = false, className = "",
         if (dd < bd) { bd = dd; best = i; }
       }
       if (bd > REACH) return;
-      for (let j = Math.max(1, best - 6); j <= Math.min(N - 1, best + 6); j++) vel[j] += (1 - Math.abs(j - best) / 7) * 16;
+      for (let j = Math.max(1, best - 3); j <= Math.min(N - 1, best + 3); j++) vel[j] += (1 - Math.abs(j - best) / 4) * 16;
       wake();
     };
+    // keep the line's position cached (no layout reads on every mouse move)
+    let rectRaf = 0;
+    const refreshRect = () => {
+      if (rectRaf || !alive) return;
+      rectRaf = requestAnimationFrame(() => {
+        rectRaf = 0;
+        if (alive && wrap.current) rect = wrap.current.getBoundingClientRect();
+      });
+    };
 
-    render();
+    // only listen while the line is on (or near) the screen
+    let listening = false;
+    const listen = (on: boolean) => {
+      if (on === listening || !fine || reduce) return;
+      listening = on;
+      const fn = on ? window.addEventListener : window.removeEventListener;
+      fn("pointermove", onMove as EventListener, { passive: true } as AddEventListenerOptions);
+      fn("pointerdown", onDown as EventListener, { passive: true } as AddEventListenerOptions);
+      fn("scroll", refreshRect, { passive: true } as AddEventListenerOptions);
+      fn("resize", refreshRect);
+      if (on) refreshRect();
+    };
+    const io = new IntersectionObserver(([e]) => alive && listen(e.isIntersecting), { rootMargin: "120px 0px" });
+    io.observe(wrap.current);
+
+    placeMarkers();
     let ctx: gsap.Context | undefined;
     if (!reduce) {
-      line.current!.style.strokeDasharray = "1";
-      line.current!.style.strokeDashoffset = "1";
+      if (line.current) {
+        line.current.style.strokeDasharray = "1";
+        line.current.style.strokeDashoffset = "1";
+      }
       ctx = gsap.context(() => {
         const st = { p: 0 };
         gsap.to(st, {
@@ -205,25 +244,28 @@ export default function RiverLine({ variant = "a", dark = false, className = "",
           ease: "none",
           scrollTrigger: { trigger: wrap.current, start: "top 85%", end: "bottom 45%", scrub: 0.6 },
           onUpdate: () => {
+            if (!alive) return;
             progress = st.p;
-            line.current!.style.strokeDashoffset = String(1 - progress);
-            setDrawn(progress >= 0.985);
-            if (!awake) render();
+            if (line.current) line.current.style.strokeDashoffset = String(1 - progress);
+            const isDrawn = progress >= 0.985;
+            if (isDrawn !== wasDrawn) {
+              wasDrawn = isDrawn;
+              setDrawn(isDrawn);
+            }
+            if (!awake) placeMarkers();
           },
         });
       }, wrap);
-      if (fine) {
-        window.addEventListener("pointermove", onMove, { passive: true });
-        window.addEventListener("pointerdown", onDown, { passive: true });
-      }
     } else {
       setDrawn(true);
     }
     return () => {
+      alive = false;
+      io.disconnect();
+      listen(false);
       cancelAnimationFrame(raf);
+      cancelAnimationFrame(rectRaf);
       ctx?.revert();
-      window.removeEventListener("pointermove", onMove);
-      window.removeEventListener("pointerdown", onDown);
     };
   }, [size, variant]);
 

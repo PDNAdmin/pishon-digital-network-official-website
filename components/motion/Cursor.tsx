@@ -31,6 +31,7 @@ export default function Cursor() {
     const pts: { x: number; y: number }[] = [];
     const head = { x: -100, y: -100, tx: -100, ty: -100 };
     let raf = 0;
+    let running = false; // sleeps when the mouse is still and the trail has drained
     const drawTrail = () => {
       head.x += (head.tx - head.x) * 0.35;
       head.y += (head.ty - head.y) * 0.35;
@@ -49,9 +50,15 @@ export default function Cursor() {
           trail.current.setAttribute("d", d);
         }
       }
+      const idle = pts.length === 0 && Math.abs(head.tx - head.x) < 0.5 && Math.abs(head.ty - head.y) < 0.5;
+      if (idle) { running = false; return; }
       raf = requestAnimationFrame(drawTrail);
     };
-    if (!reduce) raf = requestAnimationFrame(drawTrail);
+    const kick = () => {
+      if (running || reduce) return;
+      running = true;
+      raf = requestAnimationFrame(drawTrail);
+    };
 
     const move = (e: PointerEvent) => {
       xTo(e.clientX);
@@ -59,6 +66,7 @@ export default function Cursor() {
       if (head.tx < -50) { head.x = e.clientX; head.y = e.clientY; }
       head.tx = e.clientX;
       head.ty = e.clientY;
+      kick();
       const t = e.target as HTMLElement;
       const labelled = t.closest<HTMLElement>("[data-cursor]");
       if (labelled) {

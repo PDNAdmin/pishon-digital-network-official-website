@@ -169,31 +169,42 @@ export default function MicroFX() {
       document.addEventListener("pointerleave", onLeave);
     }
 
-    /* ---------- marquees follow your scroll ---------- */
+    /* ---------- marquees follow your scroll (runs only while scrolling) ---------- */
     let raf = 0;
     let lastY = window.scrollY;
     let rate = 1;
     let dir = 1;
+    let marquees: HTMLElement[] = [];
     const loop = () => {
+      raf = 0;
       const y = window.scrollY;
       const v = y - lastY;
       lastY = y;
       if (Math.abs(v) > 0.5) dir = v > 0 ? 1 : -1;
       const target = dir * (1 + Math.min(Math.abs(v) * 0.12, 5));
       rate += (target - rate) * 0.08;
-      document.querySelectorAll<HTMLElement>("[class*='animate-[marquee']").forEach((el) => {
-        if (el.matches(":hover")) return;
+      for (const el of marquees) {
+        if (!el.isConnected) continue;
+        const r = el.getBoundingClientRect();
+        if (r.bottom < 0 || r.top > innerHeight) continue; // off screen: leave it
         el.getAnimations().forEach((a) => (a.playbackRate = rate));
-      });
-      raf = requestAnimationFrame(loop);
+      }
+      // keep going until the speed has eased back to normal
+      if (Math.abs(target - rate) > 0.01 || Math.abs(v) > 0.5) raf = requestAnimationFrame(loop);
     };
-    if (!reduce) raf = requestAnimationFrame(loop);
+    const onScrollFx = () => {
+      if (raf || reduce) return;
+      marquees = Array.from(document.querySelectorAll<HTMLElement>("[class*='animate-[marquee']"));
+      if (marquees.length) raf = requestAnimationFrame(loop);
+    };
+    window.addEventListener("scroll", onScrollFx, { passive: true });
 
     return () => {
       io.disconnect();
       mo.disconnect();
       clearTimeout(pending);
       cancelAnimationFrame(raf);
+      window.removeEventListener("scroll", onScrollFx);
       document.removeEventListener("pointerdown", onDown);
       window.removeEventListener("pointermove", onMove);
       document.removeEventListener("pointerleave", onLeave);
